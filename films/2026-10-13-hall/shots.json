@@ -1,0 +1,123 @@
+{
+ "style_past": "35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T",
+ "shots": [
+  {
+   "id": "s01_banquet",
+   "look": "archival",
+   "video": true,
+   "still": "A long banquet table in a Paris palace dining room in the 1860s, seen from the end of the table at seated eye level. In the near foreground one place setting of dull grey aluminium forks, knives and spoons laid on a dark velvet cloth beside a gilt porcelain plate; further down, silver cutlery, crystal glasses and lit candelabra, guests out of focus in dark evening dress, no faces readable. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, lit only by the candles, shallow depth of field at f/2, slight softness at the frame edges, a little smoke haze, creases in the tablecloth, candid framing with the place setting in the middle third, no visible text.",
+   "motion": "The candle flames flicker gently and a thin thread of smoke drifts upward. The camera stays still with a barely perceptible push in. Nothing else moves.",
+   "seconds": 5
+  },
+  {
+   "id": "s02_silver",
+   "look": "archival",
+   "video": false,
+   "still": "Further down an 1860s Paris banquet table: ordinary polished silver forks and knives beside plain porcelain plates on a creased white tablecloth, wax drips down a candlestick, crumbs and a small wine stain, background guests completely out of focus. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, candlelight only, shallow depth of field, slight edge softness, candid framing with the cutlery in the middle third, no faces, no hands, no text."
+  },
+  {
+   "id": "s03_scale",
+   "look": "archival",
+   "video": false,
+   "still": "A small dull grey bar of aluminium resting on the brass pan of an old jeweller's balance in a dim 1850s Paris jeweller's workshop, small brass weights on the other pan, a scratched wooden counter, a gas lamp out of focus behind. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, warm gaslight from the left, shallow depth of field, dust in the air, tarnish on the brass, the balance in the middle third, no text, no labels."
+  },
+  {
+   "id": "s04_sodium",
+   "look": "archival",
+   "video": true,
+   "still": "A cramped 1850s chemistry laboratory: an iron crucible on a coal furnace with a bright yellow-orange flare and sparks rising from a reaction inside it, glass retorts and stoneware jars on soot-stained shelves, thick smoke drifting. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, lit only by the flare and a grimy window, motion blur on the sparks, slight edge softness, the crucible in the middle third, no people, no text.",
+   "motion": "The flare in the crucible pulses, sparks rise and fade, smoke billows slowly upward. The camera is locked off.",
+   "seconds": 5
+  },
+  {
+   "id": "s05_exhibit",
+   "look": "archival",
+   "video": false,
+   "still": "A glass and mahogany display case in a crowded 1855 Paris exhibition hall: a small bar of dull silvery metal on dark velvet among gold ornaments, the glass smudged with fingerprints, visitors in period dress blurred behind it, the iron and glass roof softly out of focus. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, overcast daylight through the glass roof, shallow depth of field, the case in the middle third, no faces in focus, no signs, no plaques, no text."
+  },
+  {
+   "id": "s06_woodshed",
+   "look": "archival",
+   "video": true,
+   "still": "Winter dusk in a small Ohio town in 1886: a weathered plank woodshed behind a white clapboard house, warm lamplight leaking through gaps in the boards, smoke from a tin stovepipe, trampled snow and a line of footprints to the door, bare trees. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, blue dusk light with warm lamp spill, slightly crooked handheld framing with the shed in the middle third, no people, no text.",
+   "motion": "Light snow falls, smoke drifts from the stovepipe, the lamplight in the gaps flickers slightly. Locked-off camera.",
+   "seconds": 5
+  },
+  {
+   "id": "s07_bench",
+   "look": "archival",
+   "video": false,
+   "still": "Inside a cramped 1880s home workshop at night: a rough wooden bench with a row of glass jar batteries, coils of copper wire, a small brick furnace glowing orange, an oil lamp, tools and soot, a closed notebook. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, lit by the oil lamp and the furnace, shallow depth of field, dust and clutter, the jars in the middle third, no people, no hands, no text."
+  },
+  {
+   "id": "s08_electrolysis",
+   "look": "archival",
+   "video": true,
+   "still": "Close view of a small glowing crucible of molten salt set in a homemade brick furnace in an 1880s woodshed workshop: two dark carbon rods dipped into the bright melt, copper wires leading out of frame, a crust forming at the rim, faint bubbles around the rods, soot on the bricks. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, lit only by the glowing melt, shallow depth of field, heat haze, the crucible in the middle third, no people, no text.",
+   "motion": "The melt glows and small bubbles rise around the carbon rods, heat haze shimmers. Very slow push in.",
+   "seconds": 5
+  },
+  {
+   "id": "s09_failed",
+   "look": "archival",
+   "video": false,
+   "still": "A wooden bench in an 1880s home laboratory covered with cracked clay crucibles, grey crusted slag and small heaps of white powder on folded brown paper, an oil lamp burning low, soot and spilled powder. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, low lamplight from one side, shallow depth of field, the cracked crucibles in the middle third, no people, no writing, no text."
+  },
+  {
+   "id": "s10_cryolite",
+   "look": "archival",
+   "video": true,
+   "still": "Extreme close view inside a black graphite crucible: lumps of white crystalline mineral slumping and melting into a glowing orange liquid, a crust forming at the edges, heat shimmer. Macro photograph on 35mm film, Kodak Vision3 500T, lit only by the glow, very shallow depth of field, the melt in the middle third, no text.",
+   "motion": "The white lumps slowly slump and melt into the glowing liquid, heat haze shimmers. Locked-off macro camera.",
+   "seconds": 5
+  },
+  {
+   "id": "s11_beads",
+   "look": "archival",
+   "video": true,
+   "still": "A few small shiny metal beads, each about the size of a pea, lying in the broken half of a black graphite crucible on a scorched wooden bench, lamplight glinting on them, flakes of grey crust around them. Macro photograph on 35mm film, Kodak Vision3 500T, oil lamp light from the left, very shallow depth of field, the beads in the middle third, no hands, no text.",
+   "motion": "Lamplight flickers across the metal beads and the glints shift slightly. Locked-off macro camera.",
+   "seconds": 5
+  },
+  {
+   "id": "s12_smelter1900",
+   "look": "early",
+   "video": true,
+   "still": "A long industrial hall around 1905: two rows of iron electrolytic pots with a dull orange glow at their mouths, heavy copper bus bars and cables overhead, a few workers in caps as distant silhouettes, steam and haze. Silver gelatin photograph from about 1905 with soft contrast, natural light from high windows, slight motion blur on the workers, one-point perspective with the aisle in the middle third, no signs, no text.",
+   "motion": "Steam drifts through the hall and the glow in the pots flickers. The distant workers stand almost still. Locked-off camera.",
+   "seconds": 5
+  },
+  {
+   "id": "s13_potline",
+   "look": "modern",
+   "video": true,
+   "still": "A modern aluminium smelter potline at night: hundreds of reduction cells in long rows under sodium-vapour lights, an overhead crane, haze, steel grating, one worker in high-visibility clothing far in the distance. Documentary photograph, full-frame camera, 35mm lens, available light, high ISO grain, slight motion blur on the crane, the aisle in the middle third, no text, no logos.",
+   "motion": "Haze drifts through the lights and the overhead crane moves slowly along its rail. Very slow push in.",
+   "seconds": 5
+  },
+  {
+   "id": "s14_cans",
+   "look": "modern",
+   "video": true,
+   "still": "A beverage can production line in a modern factory with no people anywhere: thousands of plain unprinted silver aluminium cans streaming along conveyor belts between stainless guide rails, oil smudges on the steel, harsh overhead fluorescent light, machinery receding into the distance. Documentary photograph, full-frame camera, 35mm lens, available light, motion blur on the moving cans, the conveyor in the middle third, empty of workers, no printing on the cans, no logos, no text.",
+   "motion": "The cans stream steadily along the conveyor. The camera is locked off.",
+   "seconds": 5
+  },
+  {
+   "id": "s15_foil",
+   "look": "modern",
+   "video": true,
+   "still": "A plate of leftover roast vegetables on a kitchen bench at night, half wrapped in crinkled aluminium foil, the foil catching warm light from a pendant lamp, a cluttered bench with a chopping board and a tea towel. Documentary photograph, full-frame camera, 35mm lens, available light, shallow depth of field, slightly messy candid framing with the plate in the middle third, no people, no hands, no text, no logos.",
+   "motion": "Warm light shifts softly across the crinkled foil as it settles. Locked-off camera.",
+   "seconds": 5
+  },
+  {
+   "id": "s16_sky",
+   "look": "film",
+   "video": true,
+   "still": "A clear night sky full of stars over a dark rural horizon, the faint band of the Milky Way, a single passenger jet's blinking navigation lights leaving a thin streak across the stars in a long exposure, a few trees in silhouette. Photograph on 35mm film, long exposure on a tripod, natural grain, slightly soft stars toward the edges, the jet streak in the middle third, no text.",
+   "motion": "The jet's lights travel slowly across the stars and the stars twinkle faintly. Locked-off camera.",
+   "seconds": 5
+  }
+ ]
+}

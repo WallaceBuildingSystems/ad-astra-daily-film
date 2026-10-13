@@ -1,0 +1,11 @@
+# Ad Astra daily film
+
+The 3:00 pm film for Ad Astra (joinadastra.com): 1 builder a day, about 40 seconds, an ElevenLabs voice over Runway pictures, cut for X and Instagram Reels and scheduled through Upload Post with hashtags.
+
+- A Claude Code routine runs ROUTINE.md every morning, in the Default cloud environment, which holds the Runway API credential and has full network access.
+- PLAYBOOK.md: the builder queue and the rules. Edit the queue to steer the films.
+- LOG.md: 1 line a film, with the Upload Post request ids.
+- films/: each film's research, script, shot list, edit list, captions and report. Pictures, video and sound stay out of the repository.
+- kit/: the tools that make the film.
+
+To stop: pause or delete the routine at claude.ai/code/routines. To stop one film: cancel its posts in Upload Post.

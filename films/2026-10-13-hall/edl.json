@@ -1,0 +1,687 @@
+{
+ "duration": 42.01,
+ "shots": [
+  {
+   "src": "src/s01_banquet.mp4",
+   "kind": "video",
+   "t0": 0.0,
+   "t1": 3.342,
+   "look": "archival",
+   "focus": [
+    0.5,
+    0.6
+   ],
+   "speed": 0.7
+  },
+  {
+   "src": "src/s02_silver.png",
+   "kind": "image",
+   "t0": 3.342,
+   "t1": 5.1,
+   "look": "archival",
+   "focus": [
+    0.5,
+    0.55
+   ]
+  },
+  {
+   "src": "src/s03_scale.png",
+   "kind": "image",
+   "t0": 5.1,
+   "t1": 8.025,
+   "look": "archival"
+  },
+  {
+   "src": "src/s05_exhibit.png",
+   "kind": "image",
+   "t0": 8.025,
+   "t1": 11.2,
+   "look": "archival"
+  },
+  {
+   "src": "src/s06_woodshed.mp4",
+   "kind": "video",
+   "t0": 11.2,
+   "t1": 14.358,
+   "look": "archival",
+   "focus": [
+    0.5,
+    0.55
+   ]
+  },
+  {
+   "src": "src/s04_sodium.mp4",
+   "kind": "video",
+   "t0": 14.358,
+   "t1": 15.992,
+   "look": "archival"
+  },
+  {
+   "src": "src/s07_bench.png",
+   "kind": "image",
+   "t0": 15.992,
+   "t1": 17.625,
+   "look": "archival"
+  },
+  {
+   "src": "src/s08_electrolysis.mp4",
+   "kind": "video",
+   "t0": 17.625,
+   "t1": 20.375,
+   "look": "archival",
+   "src_in": 0.6,
+   "z": [
+    1.0,
+    1.03
+   ]
+  },
+  {
+   "src": "src/s09_failed.png",
+   "kind": "image",
+   "t0": 20.375,
+   "t1": 21.767,
+   "look": "archival"
+  },
+  {
+   "src": "src/s10_cryolite.mp4",
+   "kind": "video",
+   "t0": 21.767,
+   "t1": 23.825,
+   "look": "archival",
+   "speed": 0.68
+  },
+  {
+   "src": "src/s11_beads.mp4",
+   "kind": "video",
+   "t0": 23.825,
+   "t1": 27.375,
+   "look": "archival",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/s12_smelter1900.mp4",
+   "kind": "video",
+   "t0": 27.375,
+   "t1": 29.633,
+   "look": "early",
+   "speed": 0.72
+  },
+  {
+   "src": "src/s13_potline.mp4",
+   "kind": "video",
+   "t0": 29.633,
+   "t1": 32.858,
+   "look": "modern",
+   "z": [
+    1.0,
+    1.03
+   ]
+  },
+  {
+   "src": "src/s14_cans.mp4",
+   "kind": "video",
+   "t0": 32.858,
+   "t1": 34.417,
+   "look": "modern"
+  },
+  {
+   "src": "src/s15_foil.mp4",
+   "kind": "video",
+   "t0": 34.417,
+   "t1": 37.267,
+   "look": "modern"
+  },
+  {
+   "src": "src/s16_sky.mp4",
+   "kind": "video",
+   "t0": 37.267,
+   "t1": 39.912,
+   "look": "film"
+  }
+ ],
+ "headlines": [
+  {
+   "t0": 0.05,
+   "t1": 3.302,
+   "lines": [
+    [
+     {
+      "w": "Napoleon's",
+      "t": 0.0
+     },
+     {
+      "w": "best",
+      "t": 1.44
+     },
+     {
+      "w": "guests:",
+      "t": 1.74
+     }
+    ],
+    [
+     {
+      "w": "aluminium.",
+      "t": 2.38
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 3.362,
+   "t1": 5.06,
+   "lines": [
+    [
+     {
+      "w": "The",
+      "t": 3.46
+     },
+     {
+      "w": "rest",
+      "t": 3.54
+     },
+     {
+      "w": "got",
+      "t": 3.84
+     },
+     {
+      "w": "silver.",
+      "t": 4.24
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 5.12,
+   "t1": 6.65,
+   "lines": [
+    [
+     {
+      "w": "Earth's",
+      "t": 5.34
+     },
+     {
+      "w": "most",
+      "t": 5.52
+     },
+     {
+      "w": "common",
+      "t": 5.64
+     },
+     {
+      "w": "metal.",
+      "t": 6.08
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 9.14,
+   "t1": 11.16,
+   "lines": [
+    [
+     {
+      "w": "Make",
+      "t": 9.24
+     },
+     {
+      "w": "it",
+      "t": 9.36
+     },
+     {
+      "w": "cheap,",
+      "t": 9.5
+     }
+    ],
+    [
+     {
+      "w": "make",
+      "t": 10.12
+     },
+     {
+      "w": "a",
+      "t": 10.22
+     },
+     {
+      "w": "fortune.",
+      "t": 10.38
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 11.22,
+   "t1": 14.318,
+   "lines": [
+    [
+     {
+      "w": "Charles",
+      "t": 11.28
+     },
+     {
+      "w": "Martin",
+      "t": 11.42
+     },
+     {
+      "w": "Hall,",
+      "t": 11.67
+     },
+     {
+      "w": "22.",
+      "t": 11.96
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 14.378,
+   "t1": 15.952,
+   "lines": [
+    [
+     {
+      "w": "Chemists",
+      "t": 14.56
+     },
+     {
+      "w": "used",
+      "t": 14.84
+     },
+     {
+      "w": "sodium.",
+      "t": 15.18
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 16.012,
+   "t1": 17.585,
+   "lines": [
+    [
+     {
+      "w": "He",
+      "t": 16.08
+     },
+     {
+      "w": "used",
+      "t": 16.28
+     },
+     {
+      "w": "electricity.",
+      "t": 16.62
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 17.645,
+   "t1": 18.73,
+   "lines": [
+    [
+     {
+      "w": "Dissolve",
+      "t": 17.84
+     },
+     {
+      "w": "the",
+      "t": 18.06
+     },
+     {
+      "w": "ore.",
+      "t": 18.26
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 18.78,
+   "t1": 20.335,
+   "lines": [
+    [
+     {
+      "w": "Let",
+      "t": 18.78
+     },
+     {
+      "w": "current",
+      "t": 18.9
+     }
+    ],
+    [
+     {
+      "w": "pull",
+      "t": 19.22
+     },
+     {
+      "w": "the",
+      "t": 19.48
+     },
+     {
+      "w": "metal",
+      "t": 19.62
+     },
+     {
+      "w": "out.",
+      "t": 19.78
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 21.787,
+   "t1": 23.785,
+   "lines": [
+    [
+     {
+      "w": "Then,",
+      "t": 22.16
+     },
+     {
+      "w": "molten",
+      "t": 22.44
+     },
+     {
+      "w": "cryolite.",
+      "t": 22.84
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 23.845,
+   "t1": 25.577,
+   "lines": [
+    [
+     {
+      "w": "February",
+      "t": 24.18
+     },
+     {
+      "w": "1886.",
+      "t": 24.18
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 25.637,
+   "t1": 27.335,
+   "lines": [
+    [
+     {
+      "w": "Beads",
+      "t": 25.617
+     },
+     {
+      "w": "of",
+      "t": 26.22
+     },
+     {
+      "w": "aluminium.",
+      "t": 26.3
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 34.437,
+   "t1": 37.227,
+   "lines": [
+    [
+     {
+      "w": "Napoleon's",
+      "t": 34.76
+     },
+     {
+      "w": "treasure.",
+      "t": 35.1
+     }
+    ],
+    [
+     {
+      "w": "Your",
+      "t": 35.96
+     },
+     {
+      "w": "leftovers.",
+      "t": 36.14
+     }
+    ]
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "t0": 9.14,
+   "t1": 11.16,
+   "text": "Professor Frank Jewett, Oberlin College."
+  },
+  {
+   "t0": 13.32,
+   "t1": 14.318,
+   "text": "A woodshed behind the family home. Oberlin, Ohio."
+  },
+  {
+   "t0": 22.84,
+   "t1": 23.785,
+   "text": "Cryolite melts at 1,000 degrees Celsius. Source: Science History Institute"
+  },
+  {
+   "t0": 24.125,
+   "t1": 25.577,
+   "text": "23 February 1886. The first metal."
+  }
+ ],
+ "counters": [
+  {
+   "t0": 6.7,
+   "t1": 7.985,
+   "a": 37,
+   "b": 37,
+   "fmt": "money",
+   "src": "Price of one kilogram of aluminium, 1859, about the price of silver. Source: Science History Institute, converted to kilograms"
+  },
+  {
+   "t0": 27.375,
+   "t1": 29.593,
+   "a": 37,
+   "b": 0.66,
+   "tick": [
+    27.445,
+    29.233
+   ],
+   "fmt": "money",
+   "src": "Price of one kilogram of aluminium, 1859, then after Hall's process. Source: Science History Institute, converted to kilograms"
+  },
+  {
+   "t0": 29.633,
+   "t1": 32.818,
+   "a": 3.6,
+   "b": 73800000,
+   "tick": [
+    29.713,
+    32.408
+   ],
+   "fmt": "dec1",
+   "src": "World aluminium production, tonnes a year, 1884 to 2025. Sources: Science History Institute, International Aluminium Institute"
+  },
+  {
+   "t0": 32.858,
+   "t1": 34.377,
+   "a": 0,
+   "b": 420000000000,
+   "tick": [
+    32.908,
+    34.017
+   ],
+   "fmt": "int",
+   "src": "Aluminium drink cans used in a year, 1884 to 2020. Every kilo of new aluminium is still made by Hall's process. Source: International Aluminium Institute"
+  }
+ ],
+ "lists": [
+  {
+   "t0": 20.375,
+   "t1": 21.727,
+   "tag": "FAILED",
+   "src": "Source: Science History Institute",
+   "items": [
+    {
+     "text": "Fluorspar",
+     "t": 20.425
+    },
+    {
+     "text": "Potassium fluoride",
+     "t": 20.633
+    },
+    {
+     "text": "Sodium fluoride",
+     "t": 20.84
+    },
+    {
+     "text": "Magnesium fluoride",
+     "t": 21.048
+    },
+    {
+     "text": "Aluminium fluoride",
+     "t": 21.256
+    }
+   ]
+  }
+ ],
+ "subtitles": [
+  {
+   "t0": 0.0,
+   "t1": 1.22,
+   "text": "Napoleon the Third served"
+  },
+  {
+   "t0": 1.24,
+   "t1": 3.212,
+   "text": "his best guests with aluminium."
+  },
+  {
+   "t0": 3.342,
+   "t1": 4.887,
+   "text": "The rest got silver."
+  },
+  {
+   "t0": 5.1,
+   "t1": 6.68,
+   "text": "Earth's most common metal,"
+  },
+  {
+   "t0": 6.7,
+   "t1": 7.812,
+   "text": "priced like silver."
+  },
+  {
+   "t0": 8.025,
+   "t1": 9.2,
+   "text": "A professor said:"
+  },
+  {
+   "t0": 9.22,
+   "t1": 10.945,
+   "text": "make it cheap, make a fortune."
+  },
+  {
+   "t0": 11.2,
+   "t1": 12.86,
+   "text": "His student, 22,"
+  },
+  {
+   "t0": 12.88,
+   "t1": 14.145,
+   "text": "went home to the woodshed."
+  },
+  {
+   "t0": 14.358,
+   "t1": 15.903,
+   "text": "Chemists used sodium."
+  },
+  {
+   "t0": 15.992,
+   "t1": 17.412,
+   "text": "He used electricity."
+  },
+  {
+   "t0": 17.625,
+   "t1": 18.76,
+   "text": "Dissolve the ore,"
+  },
+  {
+   "t0": 18.78,
+   "t1": 20.245,
+   "text": "let current pull the metal out."
+  },
+  {
+   "t0": 20.375,
+   "t1": 21.637,
+   "text": "Five salts failed."
+  },
+  {
+   "t0": 21.767,
+   "t1": 23.653,
+   "text": "Then, molten cryolite."
+  },
+  {
+   "t0": 23.825,
+   "t1": 25.528,
+   "text": "February 1886."
+  },
+  {
+   "t0": 25.617,
+   "t1": 27.12,
+   "text": "Beads of aluminium."
+  },
+  {
+   "t0": 27.375,
+   "t1": 29.503,
+   "text": "Soon, 66 cents a kilo."
+  },
+  {
+   "t0": 29.633,
+   "t1": 32.728,
+   "text": "Under 4 tonnes a year became 74 million."
+  },
+  {
+   "t0": 32.858,
+   "t1": 34.245,
+   "text": "Still made his way today."
+  },
+  {
+   "t0": 34.417,
+   "t1": 36.97,
+   "text": "Napoleon's treasure now wraps your leftovers."
+  }
+ ],
+ "glitches": [
+  27.375,
+  37.267
+ ],
+ "end": {
+  "t0": 37.267,
+  "words": [
+   {
+    "w": "Ad",
+    "t": 37.44
+   },
+   {
+    "w": "Astra.",
+    "t": 37.56
+   }
+  ],
+  "slogan": [
+   {
+    "w": "Fucking",
+    "t": 38.72
+   },
+   {
+    "w": "accelerate.",
+    "t": 38.9
+   }
+  ],
+  "card_t": 39.912,
+  "emblem": "kit/emblem.jpg",
+  "url_line": "Apply at joinadastra.com"
+ }
+}

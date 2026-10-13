@@ -1,0 +1,14 @@
+# media and working folders never go in the repository
+*.mp4
+*.mov
+*.png
+*.jpg
+!kit/emblem.jpg
+*.wav
+*.mp3
+*.flac
+src/
+work/
+out/
+kit/fonts/
+__pycache__/
