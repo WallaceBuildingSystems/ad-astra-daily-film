@@ -21,10 +21,11 @@ You are James Sackl's assistant for Ad Astra (joinadastra.com), a research patro
 ## Step 0, set up
 
 1. Run `TZ=Australia/Melbourne date` and `TZ=Australia/Melbourne date +%z`, and use them for every time and timestamp.
-2. Tools: `which ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)`, check `ffmpeg -hide_banner -filters | grep rubberband`, then `sh kit/setup.sh` (fonts and the local transcriber).
+2. Tools: `which ffmpeg || (apt-get update -qq && apt-get install -y -qq ffmpeg) || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)`, check `ffmpeg -hide_banner -filters | grep rubberband`, then `sh kit/setup.sh` (fonts and the local transcriber).
 3. `python3 kit/runway_api.py balance` must print a creditBalance of 1,000 or more. If it answers 401, the API credential is missing from this environment; if the balance is under 1,000, the credits have run out. Either way post nothing, report it and stop.
 4. Upload Post: list_users must show profile AdAstra with x and instagram connected and no reconnect needed.
-5. The slot: the first day, from today, whose 3:00 pm Melbourne has no film in LOG.md and no AdAstra post in Upload Post list_scheduled. Today counts only if it is before 12:30 pm now. The folder is films/<slot date>-<builder surname>.
+5. The log: `git checkout main && git pull`, then `git fetch origin claude/daily-film-log` and, if that branch exists, `git merge --no-edit origin/claude/daily-film-log`. It holds the runs whose push to main was refused, so LOG.md and films/ are complete before you read them.
+6. The slot: the first day, from today, whose 3:00 pm Melbourne has no film in LOG.md and no AdAstra post in Upload Post list_scheduled. Today counts only if it is before 12:30 pm now. The folder is films/<slot date>-<builder surname>.
 
 ## Step 1, pick and research
 
@@ -76,5 +77,5 @@ Poll get_status with each request_id until it is scheduled, then confirm both wi
 
 1. Append one line to LOG.md: the slot date, builder, title, "scheduled 3:00 pm Melbourne", both Upload Post request and job ids, hashtags on both, Runway credits used and left, sources.
 2. Write films/<folder>/report.md: the same, both captions, and any problem met.
-3. Commit LOG.md, films/<folder>/ (text files only) and any kit fix straight to main: `git checkout main && git pull --rebase && git add LOG.md films/<folder> kit && git commit -m "Daily film: <builder>, <slot date>" && git push origin main`. The next run reads LOG.md on main, so this push matters. If main refuses the push, push the same commit to claude/daily-film-<slot date> and say so first in the summary.
+3. Commit LOG.md, films/<folder>/ (text files only) and any kit fix, then push straight to main: `git add LOG.md films/<folder> kit && git commit -m "Daily film: <builder>, <slot date>" && git push origin HEAD:main`. The next run reads LOG.md, so this push matters. If main refuses it, `git push origin HEAD:claude/daily-film-log` instead (the next run merges that branch in step 0) and say so in the summary.
 4. End with a short summary: builder, title, slot, Runway credits used and left (say so plainly when fewer than 3,000 remain), and that James can cancel the posts in Upload Post or stop the routine at claude.ai/code/routines.
