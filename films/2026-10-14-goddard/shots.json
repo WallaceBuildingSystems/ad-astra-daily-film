@@ -1,0 +1,117 @@
+{
+ "style_past": "35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T",
+ "shots": [
+  {
+   "id": "s01_press",
+   "look": "early",
+   "video": true,
+   "still": "A newspaper press hall in 1920: a huge black cast-iron rotary press with a continuous web of blank newsprint racing over the rollers, ink haze in the air, bare bulbs hanging from the ceiling, oil stains on the concrete floor, one pressman far in the background out of focus with his back turned. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, lit by the hanging bulbs, shallow depth of field, a little motion blur on the paper, the rollers in the middle third, no readable words, no text, no logos.",
+   "motion": "The paper web streams over the turning rollers and the ink haze drifts. Locked-off camera, very slow push in.",
+   "seconds": 5
+  },
+  {
+   "id": "s02_fireworks",
+   "look": "early",
+   "video": true,
+   "still": "A paper-tube skyrocket firework launching at night from a wooden trough in a muddy field in the 1910s, a shower of orange sparks and grey smoke, the rocket a blurred streak just above the trough, dark trees behind. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, lit only by the sparks, long exposure feel, heavy grain, the trough and sparks in the middle third, no people, no text.",
+   "motion": "Sparks spray and fall and the smoke curls upward. Locked-off camera.",
+   "seconds": 5
+  },
+  {
+   "id": "s03_powder",
+   "look": "early",
+   "video": false,
+   "still": "A heap of black gunpowder spilled from a torn paper cartridge on a scarred wooden workbench in the 1910s, beside three empty cardboard rocket tubes and a brass funnel, an oil lamp burning low, dust and soot on the wood. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, warm lamplight from the left, shallow depth of field at f/2, the powder heap in the middle third, no people, no hands, no writing, no labels, no text."
+  },
+  {
+   "id": "s04_professor",
+   "look": "early",
+   "video": false,
+   "still": "A college physics workshop in the 1920s: brass instruments, a small lathe, steel tubes and copper pipe on a long wooden bench, tall windows with winter light, a man in a dark three-piece wool suit standing at the far window with his back to the camera, out of focus. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, soft window light, shallow depth of field, dust in the light, the bench in the middle third, no face visible, no writing, no blackboard, no text."
+  },
+  {
+   "id": "s05_fuse",
+   "look": "early",
+   "video": false,
+   "still": "A firework fountain burning on a cobbled yard at night in the 1910s, a cone of white and orange sparks with grey smoke, a few spent paper casings on the stones. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, lit only by the sparks, a little motion blur in the sparks, heavy grain, the fountain in the middle third, no people, no text."
+  },
+  {
+   "id": "s06_lox",
+   "look": "early",
+   "video": true,
+   "still": "Two small steel tanks joined by thin copper pipes and brass valves on a rough wooden bench in a 1920s workshop, one tank coated in white frost and venting a plume of white vapour that spills over the bench edge, a can of gasoline beside it. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, cold window light, shallow depth of field, the frosted tank in the middle third, no people, no hands, no labels, no writing, no text.",
+   "seconds": 5,
+   "motion": "The white vapour pours slowly off the frosted tank, spills over the bench edge and drifts across the wood. Locked-off camera, very slow push in."
+  },
+  {
+   "id": "s07_failed",
+   "look": "early",
+   "video": false,
+   "still": "A tall, spindly frame of thin metal pipes standing alone in a snowy field on an overcast March day in 1926, a small blackened nozzle at its top, a thin wisp of smoke, nothing launched, trampled footprints and a wooden box in the snow. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, flat overcast daylight, slight softness at the frame edges, the frame in the middle third, no people, no text."
+  },
+  {
+   "id": "s08_farm",
+   "look": "early",
+   "video": false,
+   "still": "A snowy New England farm field in March 1926, patchy snow over brown stubble, bare maple trees, a split-rail wooden fence and a distant white farmhouse with a barn, low grey sky. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, flat overcast daylight, natural grain, the fence line leading to the farmhouse in the middle third, no people, no text."
+  },
+  {
+   "id": "s09_flame",
+   "look": "early",
+   "video": true,
+   "still": "Close on the base of a thin metal-pipe launch frame standing in snow in 1926: a small rocket motor at the frame's top firing a bright narrow flame downward, white smoke billowing over the snow, frost on the pipes, melting snow around the stand. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, lit by the flame and overcast daylight, shallow depth of field, the flame in the middle third, no people, no text.",
+   "motion": "The flame flickers and roars steadily and the smoke billows across the snow. The frame stays still. Locked-off camera.",
+   "seconds": 5
+  },
+  {
+   "id": "s10_rise",
+   "look": "early",
+   "video": true,
+   "still": "A small spindly rocket of thin pipes rising a few metres above a snowy field in 1926, trailing a short bright flame and a column of white smoke, the empty launch frame below it, bare trees on the horizon, seen from about 30 metres away. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, overcast daylight, motion blur on the rocket, natural grain, the rocket in the middle third, no people, no text.",
+   "motion": "The rocket climbs slowly upward trailing smoke while the smoke column spreads. Locked-off camera.",
+   "seconds": 5
+  },
+  {
+   "id": "s11_landing",
+   "look": "early",
+   "video": false,
+   "still": "A snowy farm field after a rocket test in 1926: a scorched black patch of melted snow under an empty pipe frame in the foreground, a thin grey smoke trail curving away across the field toward a cabbage patch with a bent piece of metal lying in it in the distance. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, flat overcast daylight, slight edge softness, the smoke trail in the middle third, no people, no text."
+  },
+  {
+   "id": "s12_moon_rocket",
+   "look": "film",
+   "video": true,
+   "still": "A giant white Moon rocket lifting off a coastal launch pad at dawn in July 1969, seen from about 5 kilometres across flat water, a column of brilliant flame and a huge billowing white exhaust cloud, the steel launch tower beside it, birds on the water. Frame from 16mm colour documentary film, 1969, long telephoto lens with heat shimmer, natural grain and slight colour fade, the rocket in the middle third, no logos, no text.",
+   "motion": "The rocket climbs slowly on its column of flame and the exhaust cloud billows outward. Locked-off camera with heat shimmer.",
+   "seconds": 5
+  },
+  {
+   "id": "s13_launch_today",
+   "look": "modern",
+   "video": true,
+   "still": "A modern orbital rocket lifting off a launch pad at dusk, seen from about 8 kilometres away across marshland, a bright flame and a long glowing exhaust plume lit orange by the setting sun, steam rising from the pad. Documentary photograph, full-frame camera, 200mm lens, available light, heat shimmer, slight motion blur, the rocket in the middle third, no logos, no text.",
+   "motion": "The rocket rises steadily on its flame and the plume lengthens and glows. Locked-off camera.",
+   "seconds": 5
+  },
+  {
+   "id": "s14_earth_night",
+   "look": "film",
+   "video": true,
+   "still": "The Earth at night seen from orbit, glowing city lights spread across a dark continent, the thin blue line of the atmosphere along the curved horizon, stars above, the soft edge of a satellite's solar panel out of focus in one corner. Photograph from orbit, long lens, natural sensor noise, the city lights in the middle third, no text.",
+   "motion": "The Earth drifts slowly beneath the camera and the city lights glide past. Very slow drift.",
+   "seconds": 5
+  },
+  {
+   "id": "s15_correction",
+   "look": "film",
+   "video": false,
+   "still": "A 1969 newspaper press room at night: freshly printed newspapers stacking on a conveyor, ink haze under fluorescent tubes, steel machinery, every page blurred by motion so no words can be read. Frame from 16mm colour documentary film, 1969, available light, natural grain and slight colour fade, shallow depth of field, the stack of papers in the middle third, no people, no readable words, no text, no logos."
+  },
+  {
+   "id": "s16_moon",
+   "look": "film",
+   "video": false,
+   "still": "A full Moon rising over a dark sea on a clear night, a faint path of moonlight on the water, stars above, a low headland in silhouette. Photograph on 35mm film, long exposure on a tripod, natural grain, slightly soft stars toward the edges, the Moon in the middle third, no people, no text."
+  }
+ ]
+}

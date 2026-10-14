@@ -1,0 +1,730 @@
+{
+ "duration": 44.48,
+ "shots": [
+  {
+   "src": "/home/claude/goddard/src/s01_press.mp4",
+   "kind": "video",
+   "t0": 0.0,
+   "t1": 4.384,
+   "look": "early",
+   "speed": 0.6,
+   "z": [
+    1.0,
+    1.02
+   ]
+  },
+  {
+   "src": "/home/claude/goddard/src/s02_fireworks.mp4",
+   "kind": "video",
+   "t0": 4.384,
+   "t1": 6.04,
+   "look": "early",
+   "src_in": 0.2
+  },
+  {
+   "src": "/home/claude/goddard/src/s03_powder.png",
+   "kind": "image",
+   "t0": 6.04,
+   "t1": 8.984,
+   "look": "early",
+   "focus": [
+    0.55,
+    0.55
+   ]
+  },
+  {
+   "src": "/home/claude/goddard/src/s04_professor.png",
+   "kind": "image",
+   "t0": 8.984,
+   "t1": 12.112,
+   "look": "early",
+   "focus": [
+    0.62,
+    0.5
+   ]
+  },
+  {
+   "src": "/home/claude/goddard/src/s05_fuse.png",
+   "kind": "image",
+   "t0": 12.112,
+   "t1": 13.712,
+   "look": "early",
+   "focus": [
+    0.5,
+    0.55
+   ]
+  },
+  {
+   "src": "/home/claude/goddard/src/s06_lox.mp4",
+   "kind": "video",
+   "t0": 13.712,
+   "t1": 15.968,
+   "look": "early",
+   "src_in": 0.3,
+   "speed": 0.9,
+   "z": [
+    1.0,
+    1.02
+   ]
+  },
+  {
+   "src": "/home/claude/goddard/src/s07_failed.png",
+   "kind": "image",
+   "t0": 15.968,
+   "t1": 17.56,
+   "look": "early",
+   "z": [
+    1.08,
+    1.16
+   ]
+  },
+  {
+   "src": "/home/claude/goddard/src/s08_farm.png",
+   "kind": "image",
+   "t0": 17.56,
+   "t1": 20.84,
+   "look": "early"
+  },
+  {
+   "src": "/home/claude/goddard/src/s09_flame.mp4",
+   "kind": "video",
+   "t0": 20.84,
+   "t1": 23.048,
+   "look": "early",
+   "src_in": 0.2
+  },
+  {
+   "src": "/home/claude/goddard/src/s10_rise.mp4",
+   "kind": "video",
+   "t0": 23.048,
+   "t1": 24.472,
+   "look": "early",
+   "speed": 0.75
+  },
+  {
+   "src": "/home/claude/goddard/src/s11_landing.png",
+   "kind": "image",
+   "t0": 24.472,
+   "t1": 27.544,
+   "look": "early"
+  },
+  {
+   "src": "/home/claude/goddard/src/s12_moon_rocket.mp4",
+   "kind": "video",
+   "t0": 27.544,
+   "t1": 31.104,
+   "look": "film",
+   "z": [
+    1.1,
+    1.14
+   ],
+   "speed": 0.8
+  },
+  {
+   "src": "/home/claude/goddard/src/s13_launch_today.mp4",
+   "kind": "video",
+   "t0": 31.104,
+   "t1": 34.048,
+   "look": "modern"
+  },
+  {
+   "src": "/home/claude/goddard/src/s14_earth_night.mp4",
+   "kind": "video",
+   "t0": 34.048,
+   "t1": 36.32,
+   "look": "film"
+  },
+  {
+   "src": "/home/claude/goddard/src/s15_correction.png",
+   "kind": "image",
+   "t0": 36.32,
+   "t1": 39.68,
+   "look": "film",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "/home/claude/goddard/src/s16_moon.png",
+   "kind": "image",
+   "t0": 39.68,
+   "t1": 42.38,
+   "look": "film"
+  }
+ ],
+ "headlines": [
+  {
+   "t0": 0.05,
+   "t1": 2.53,
+   "lines": [
+    [
+     {
+      "w": "1920.",
+      "t": 0.0
+     }
+    ],
+    [
+     {
+      "w": "The",
+      "t": 1.28
+     },
+     {
+      "w": "New",
+      "t": 1.34
+     },
+     {
+      "w": "York",
+      "t": 1.48
+     },
+     {
+      "w": "Times:",
+      "t": 1.66
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 2.58,
+   "t1": 4.344,
+   "lines": [
+    [
+     {
+      "w": "Rockets",
+      "t": 2.58
+     },
+     {
+      "w": "can't",
+      "t": 2.78
+     }
+    ],
+    [
+     {
+      "w": "fly",
+      "t": 3.32
+     },
+     {
+      "w": "in",
+      "t": 3.48
+     },
+     {
+      "w": "space.",
+      "t": 3.62
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 4.404,
+   "t1": 6.0,
+   "lines": [
+    [
+     {
+      "w": "Rockets",
+      "t": 4.7
+     },
+     {
+      "w": "were",
+      "t": 4.82
+     }
+    ],
+    [
+     {
+      "w": "fireworks.",
+      "t": 5.02
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 9.004,
+   "t1": 12.072,
+   "lines": [
+    [
+     {
+      "w": "Robert",
+      "t": 9.2
+     },
+     {
+      "w": "Goddard,",
+      "t": 9.36
+     }
+    ],
+    [
+     {
+      "w": "physics",
+      "t": 9.98
+     },
+     {
+      "w": "professor.",
+      "t": 10.12
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 12.132,
+   "t1": 13.672,
+   "lines": [
+    [
+     {
+      "w": "Fireworks",
+      "t": 12.3
+     },
+     {
+      "w": "burned",
+      "t": 12.72
+     }
+    ],
+    [
+     {
+      "w": "powder.",
+      "t": 13.0
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 13.732,
+   "t1": 15.928,
+   "lines": [
+    [
+     {
+      "w": "He",
+      "t": 13.78
+     },
+     {
+      "w": "burned",
+      "t": 13.98
+     }
+    ],
+    [
+     {
+      "w": "gasoline",
+      "t": 14.24
+     },
+     {
+      "w": "and",
+      "t": 14.7
+     }
+    ],
+    [
+     {
+      "w": "liquid",
+      "t": 15.0
+     },
+     {
+      "w": "oxygen.",
+      "t": 15.18
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 15.988,
+   "t1": 17.52,
+   "lines": [
+    [
+     {
+      "w": "First",
+      "t": 16.18
+     },
+     {
+      "w": "attempt:",
+      "t": 16.38
+     }
+    ],
+    [
+     {
+      "w": "failed.",
+      "t": 16.7
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 17.58,
+   "t1": 20.8,
+   "lines": [
+    [
+     {
+      "w": "16",
+      "t": 17.72
+     },
+     {
+      "w": "March",
+      "t": 17.84
+     },
+     {
+      "w": "1926.",
+      "t": 18.52
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 20.86,
+   "t1": 23.008,
+   "lines": [
+    [
+     {
+      "w": "For",
+      "t": 20.92
+     },
+     {
+      "w": "20",
+      "t": 21.06
+     },
+     {
+      "w": "seconds",
+      "t": 21.36
+     }
+    ],
+    [
+     {
+      "w": "it",
+      "t": 21.86
+     },
+     {
+      "w": "just",
+      "t": 22.04
+     },
+     {
+      "w": "burned.",
+      "t": 22.22
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 23.068,
+   "t1": 24.432,
+   "lines": [
+    [
+     {
+      "w": "Then",
+      "t": 23.14
+     },
+     {
+      "w": "it",
+      "t": 23.62
+     },
+     {
+      "w": "rose.",
+      "t": 23.74
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 24.492,
+   "t1": 27.504,
+   "lines": [
+    [
+     {
+      "w": "2.5",
+      "t": 24.54
+     },
+     {
+      "w": "seconds.",
+      "t": 25.18
+     }
+    ],
+    [
+     {
+      "w": "12.5",
+      "t": 25.86
+     },
+     {
+      "w": "metres.",
+      "t": 26.7
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 34.068,
+   "t1": 36.28,
+   "lines": [
+    [
+     {
+      "w": "Your",
+      "t": 34.16
+     },
+     {
+      "w": "maps",
+      "t": 34.28
+     },
+     {
+      "w": "and",
+      "t": 34.5
+     }
+    ],
+    [
+     {
+      "w": "weather",
+      "t": 34.68
+     },
+     {
+      "w": "forecasts",
+      "t": 34.86
+     }
+    ],
+    [
+     {
+      "w": "ride",
+      "t": 35.34
+     },
+     {
+      "w": "on",
+      "t": 35.68
+     },
+     {
+      "w": "them.",
+      "t": 35.86
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 36.34,
+   "t1": 37.89,
+   "lines": [
+    [
+     {
+      "w": "1969.",
+      "t": 36.78
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 37.94,
+   "t1": 39.64,
+   "lines": [
+    [
+     {
+      "w": "“The",
+      "t": 37.94
+     },
+     {
+      "w": "Times",
+      "t": 38.02
+     },
+     {
+      "w": "regrets",
+      "t": 38.32
+     }
+    ],
+    [
+     {
+      "w": "the",
+      "t": 38.62
+     },
+     {
+      "w": "error.”",
+      "t": 38.82
+     }
+    ]
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "t0": 1.18,
+   "t1": 4.344,
+   "text": "The New York Times, editorial, 13 January 1920."
+  },
+  {
+   "t0": 9.98,
+   "t1": 12.072,
+   "text": "Clark University, Worcester, Massachusetts."
+  },
+  {
+   "t0": 16.068,
+   "t1": 17.52,
+   "text": "8 March 1926."
+  },
+  {
+   "t0": 18.52,
+   "t1": 20.8,
+   "text": "His aunt Effie Ward's farm, Auburn, Massachusetts."
+  },
+  {
+   "t0": 20.94,
+   "t1": 23.008,
+   "text": "The motor burned 20 seconds before it lifted. Source: National Air and Space Museum"
+  },
+  {
+   "t0": 25.18,
+   "t1": 27.504,
+   "text": "It landed 56 metres away, in a cabbage patch. Source: National Aeronautics and Space Administration"
+  },
+  {
+   "t0": 37.94,
+   "t1": 39.64,
+   "text": "The New York Times, 17 July 1969, as Apollo 11 flew."
+  }
+ ],
+ "counters": [
+  {
+   "t0": 6.68,
+   "t1": 8.944,
+   "a": 98,
+   "b": 98,
+   "fmt": "int",
+   "prefix": "Over ",
+   "unit": "%",
+   "src": "Energy a powder rocket wasted, Goddard to the Smithsonian, 1916. Source: Smithsonian Institution Archives"
+  },
+  {
+   "t0": 27.544,
+   "t1": 31.064,
+   "a": 12.5,
+   "b": 384400000,
+   "unit": " m",
+   "a_label": "12.5 m",
+   "tick": [
+    27.644,
+    30.654
+   ],
+   "fmt": "dec1",
+   "src": "Height of the first flight, 1926, then the distance to the Moon. Source: National Aeronautics and Space Administration"
+  },
+  {
+   "t0": 31.104,
+   "t1": 34.008,
+   "a": 0,
+   "b": 324,
+   "tick": [
+    31.83,
+    33.598
+   ],
+   "fmt": "int",
+   "src": "Launches to orbit in a year, 1926, then 2025. Source: American Institute of Aeronautics and Astronautics, SpaceNews"
+  }
+ ],
+ "lists": [],
+ "subtitles": [
+  {
+   "t0": 0.0,
+   "t1": 2.56,
+   "text": "1920. The New York Times:"
+  },
+  {
+   "t0": 2.58,
+   "t1": 4.264,
+   "text": "rockets can't fly in space."
+  },
+  {
+   "t0": 4.384,
+   "t1": 5.96,
+   "text": "Rockets were fireworks."
+  },
+  {
+   "t0": 6.04,
+   "t1": 8.824,
+   "text": "Powder wasted over 98 per cent of its energy."
+  },
+  {
+   "t0": 8.984,
+   "t1": 10.92,
+   "text": "Robert Goddard, physics professor,"
+  },
+  {
+   "t0": 10.94,
+   "t1": 11.992,
+   "text": "aimed for space."
+  },
+  {
+   "t0": 12.112,
+   "t1": 13.672,
+   "text": "Fireworks burned powder."
+  },
+  {
+   "t0": 13.712,
+   "t1": 15.848,
+   "text": "He burned gasoline and liquid oxygen."
+  },
+  {
+   "t0": 15.968,
+   "t1": 17.44,
+   "text": "His first attempt failed."
+  },
+  {
+   "t0": 17.56,
+   "t1": 20.72,
+   "text": "16 March 1926, his aunt's farm."
+  },
+  {
+   "t0": 20.84,
+   "t1": 22.888,
+   "text": "For 20 seconds it just burned."
+  },
+  {
+   "t0": 23.048,
+   "t1": 24.392,
+   "text": "Then it rose."
+  },
+  {
+   "t0": 24.472,
+   "t1": 27.344,
+   "text": "2.5 seconds. 12.5 metres."
+  },
+  {
+   "t0": 27.544,
+   "t1": 28.74,
+   "text": "43 years later,"
+  },
+  {
+   "t0": 28.76,
+   "t1": 30.984,
+   "text": "his idea flew 3 men to the Moon."
+  },
+  {
+   "t0": 31.104,
+   "t1": 33.968,
+   "text": "Last year, 324 launches to orbit."
+  },
+  {
+   "t0": 34.048,
+   "t1": 36.12,
+   "text": "Your maps and weather forecasts ride on them."
+  },
+  {
+   "t0": 36.32,
+   "t1": 39.44,
+   "text": "In 1969, The Times printed a correction."
+  }
+ ],
+ "glitches": [
+  27.544,
+  39.68
+ ],
+ "end": {
+  "t0": 39.68,
+  "words": [
+   {
+    "w": "Ad",
+    "t": 39.8
+   },
+   {
+    "w": "Astra.",
+    "t": 40.0
+   }
+  ],
+  "slogan": [
+   {
+    "w": "Fucking",
+    "t": 41.1
+   },
+   {
+    "w": "accelerate.",
+    "t": 41.34
+   }
+  ],
+  "card_t": 42.38,
+  "emblem": "kit/emblem.jpg",
+  "url_line": "Apply at joinadastra.com"
+ }
+}
