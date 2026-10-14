@@ -26,7 +26,7 @@ What the daily film is and the rules it follows. ROUTINE.md holds the steps; whe
 
 ## Accounts
 
-- Upload Post profile AdAstra: X @joinadastra and Instagram @cybertower.com.au (the Instagram handle still carries the old Cybertower name). TikTok, YouTube, LinkedIn and Facebook are not connected; post to X and Instagram only.
+- Upload Post profile AdAstra: X @joinadastra and Instagram (Upload Post still lists the old handle cybertower.com.au; the Reels show the account as joinadastra on 14 October 2026). TikTok, YouTube, LinkedIn and Facebook are not connected; post to X and Instagram only.
 - ElevenLabs: Wallace Jax Meridian, voice iB0m5bo5Htdz0t9yE0xq, model eleven_v4. Other saved voices, not in use: Wallace Don Trailer (JJCR1UICgHnHljtvu5uF), Wallace David Trailer (FF7KdobWPaiR0vkcALHF).
 - Runway developer platform, through kit/runway_api.py. The credits are shared with James's other projects on the same account.
 
@@ -63,7 +63,7 @@ What the daily film is and the rules it follows. ROUTINE.md holds the steps; whe
 29. Willem Einthoven, electrocardiogram, 1903
 30. Henry Bessemer, cheap steel, 1856
 
-Done or dropped before this repository: Malcom McLean (10 October), Chester Carlson (11 October), Frederic Tudor (dropped 11 October, the ice trade vanished), Charles Martin Hall (13 October). A builder whose key facts cannot be confirmed from primary or institutional sources is skipped with a line in LOG.md, never guessed.
+Done or dropped before this repository: Malcom McLean (10 October), Chester Carlson (11 October), Frederic Tudor (dropped 11 October, the ice trade vanished), Charles Martin Hall (13 October). Robert Goddard was posted 14 October (LOG.md). A builder whose key facts cannot be confirmed from primary or institutional sources is skipped with a line in LOG.md, never guessed.
 
 When the queue runs out, post nothing, write it in LOG.md and the run's summary, and stop.
 
@@ -116,4 +116,4 @@ Film pass (render.py, set per shot with look):
 
 ## Credit budget
 
-About 800 credits a film: 16 stills on Nano Banana Pro at 20 credits (320) and 8 moving shots on Gen-4.5 at 5 seconds, 60 credits each (480). Hard cap 950 a film (James, 12 October 2026). The Hall pilot used 1,000 (11 clips), which is why the daily film makes 8. 93,246 credits were left on 13 October 2026, about 115 films. Each run reports credits used and left, and says so plainly when fewer than 3,000 remain.
+About 800 credits a film: 16 stills on Nano Banana Pro at 20 credits (320) and 8 moving shots on Gen-4.5 at 5 seconds, 60 credits each (480). Hard cap 950 a film (James, 12 October 2026). The Hall pilot used 1,000 (11 clips), which is why the daily film makes 8. 93,246 credits were left on 13 October 2026 and 90,609 on 14 October, about 100 films. Each run reports credits used and left, and says so plainly when fewer than 3,000 remain.
