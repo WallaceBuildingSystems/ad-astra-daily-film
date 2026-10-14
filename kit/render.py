@@ -335,14 +335,26 @@ def make_streak(length, thick, color):
 
 
 # ---------- counters ----------
-def fmt_value(v, fmt):
+def fmt_value(v, fmt, unit="", prefix=""):
+    """A counter's number as shown: prefix ("Over "), the number, then the unit ("%", " m")."""
     if fmt == "money":
-        return f"${v:,.0f}" if v >= 9.995 else f"${v:,.2f}"
-    if fmt == "dec1":
-        return f"{v:,.1f}" if v < 9.95 else f"{v:,.0f}"
-    if fmt == "int":
-        return f"{v:,.0f}"
-    return str(v)
+        s = f"${v:,.0f}" if v >= 9.995 else f"${v:,.2f}"
+    elif fmt == "dec1":
+        s = f"{v:,.1f}" if v < 9.95 else f"{v:,.0f}"
+    elif fmt == "int":
+        s = f"{v:,.0f}"
+    else:
+        s = str(v)
+    return f"{prefix}{s}{unit}"
+
+
+def counter_text(c, v):
+    """Text for value v of counter c: a_label or b_label replace the start or end value when given."""
+    if v == float(c["b"]) and c.get("b_label"):
+        return c["b_label"]
+    if v == float(c["a"]) and c.get("a_label"):
+        return c["a_label"]
+    return fmt_value(v, c["fmt"], c.get("unit", ""), c.get("prefix", ""))
 
 def counter_value(c, t):
     a, b = float(c["a"]), float(c["b"])
@@ -442,28 +454,36 @@ def render(edl, fmt, out):
         subs.append(dict(t0=s["t0"], t1=s["t1"], sprs=sprs))
 
     # --- labels (mono caps) ---
-    lf = mono_font(P["label"])
     labels = []
     for l in edl.get("labels", []):
         text = l["text"].upper()
-        tr = P["label"] * 0.08
-        arr, ox, oy, w = sprite(text, lf, color=(235, 235, 235), glow=0.25, glow_r=5, shadow=0.7, track=tr)
+        size = P["label"]
         maxw = W * 0.9
-        if w > maxw:  # shrink
-            f2 = mono_font(int(P["label"] * maxw / w))
-            arr, ox, oy, w = sprite(text, f2, color=(235, 235, 235), glow=0.25, glow_r=5, shadow=0.7, track=tr)
+        # a long label breaks onto 2 lines at its last full stop ("... . SOURCE: ..."), "\n" forces a break
+        parts = text.split("\n")
+        if len(parts) == 1 and (tracked_width(text, mono_font(size), size * 0.08) > maxw or (fmt == "9x16" and len(text) > 48)):
+            cut = text.rfind(". ", 0, len(text) - 2)
+            if cut > 0:
+                parts = [text[:cut + 1], text[cut + 2:]]
+        while size > 12 and max(tracked_width(p, mono_font(size), size * 0.08) for p in parts) > maxw:
+            size -= 1
+        f2 = mono_font(size)
         y = H * (P["head_y"] + l.get("dy", 0.11))
         for h in heads:  # keep clear of any headline on screen at the same time
             if h["t0"] < l["t1"] and l["t0"] < h["t1"]:
                 y = max(y, h["bottom"] + H * 0.03)
-        labels.append(dict(t0=l["t0"], t1=l["t1"], arr=arr, x=W / 2 - w / 2 + ox, y=y + oy))
+        sprs = []
+        for k, ptxt in enumerate(parts):
+            arr, ox, oy, w = sprite(ptxt, f2, color=(235, 235, 235), glow=0.25, glow_r=5, shadow=0.7, track=size * 0.08)
+            sprs.append((arr, W / 2 - w / 2 + ox, y + k * size * 1.5 + oy))
+        labels.append(dict(t0=l["t0"], t1=l["t1"], sprs=sprs))
 
     # --- counters ---
     cf_size = P["counter"]
     counters = []
     for c in edl.get("counters", []):
-        a_str = fmt_value(float(c["a"]), c["fmt"])
-        b_final = fmt_value(float(c["b"]), c["fmt"])
+        a_str = c.get("a_label") or fmt_value(float(c["a"]), c["fmt"], c.get("unit", ""), c.get("prefix", ""))
+        b_final = counter_text(c, float(c["b"]))
         full = b_final if float(c["a"]) == float(c["b"]) else f"{a_str} → {b_final}"  # a fixed value shows alone
         size = cf_size
         while mono_font(size).getlength(full) > W * 0.88 and size > 30:
@@ -473,14 +493,14 @@ def render(edl, fmt, out):
         y = H * P["head_y"] - size * 0.62
         src_text = c["src"].upper()
         sfz = P["src"]
-        while tracked_width(src_text, mono_font(sfz), sfz * 0.06) > W * 0.9 and sfz > 12:
-            sfz -= 1
-        # source may need two lines in vertical format
+        # a long source line breaks onto 2 lines at its last full stop first, then shrinks to fit
         src_lines = [src_text]
         if tracked_width(src_text, mono_font(sfz), sfz * 0.06) > W * 0.9 or (fmt == "9x16" and len(src_text) > 48):
             cut = src_text.rfind(". ", 0, len(src_text) - 2)
             if cut > 0:
                 src_lines = [src_text[:cut + 1], src_text[cut + 2:]]
+        while max(tracked_width(ln, mono_font(sfz), sfz * 0.06) for ln in src_lines) > W * 0.9 and sfz > 12:
+            sfz -= 1
         src_sprs = []
         for k, ln in enumerate(src_lines):
             arr, ox, oy, w = sprite(ln, mono_font(sfz), color=(225, 225, 225), glow=0.2, glow_r=4, shadow=0.7, track=sfz * 0.06)
@@ -666,7 +686,8 @@ def render(edl, fmt, out):
         for l in labels:
             op = ramp(t, l["t0"], l["t1"], 0.15, 0.12)
             if op > 0:
-                blend(frame, l["arr"], l["x"], l["y"], op)
+                for arr, x, y in l["sprs"]:
+                    blend(frame, arr, x, y, op)
 
         # counters
         for c in counters:
@@ -674,7 +695,8 @@ def render(edl, fmt, out):
             if op <= 0:
                 continue
             v = counter_value(c["c"], t)
-            b_str = fmt_value(v, c["c"]["fmt"])
+            b_str = counter_text(c["c"], v) if v == float(c["c"]["b"]) else \
+                fmt_value(v, c["c"]["fmt"], c["c"].get("unit", ""), c["c"].get("prefix", ""))
             key = b_str
             if key not in c["cache"]:
                 txt = b_str if float(c["c"]["a"]) == float(c["c"]["b"]) else f"{c['a_str']} → {b_str}"

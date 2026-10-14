@@ -1,6 +1,6 @@
 # Ad Astra daily film log
 
-One line a film, starting with the date it posts at 3:00 pm Melbourne: builder, title, status, Upload Post request and job ids, hashtags, Runway credits used and left, sources. Skipped builders get a line with the reason.
+One line a film, starting with its date: builder, title, status (made and awaiting review, posted with links, or not posted), Upload Post upload, request and job ids, hashtags, Runway credits used and left, sources. Until 13 October 2026 films posted at 3:00 pm Melbourne; from 14 October 2026 they are ready for James's review by 9:00 am and posted once he approves, by 12:00 pm. Skipped builders get a line with the reason.
 
 - 2026-10-10: Malcom McLean, The Box, posted to X through Typefully (earlier pipeline).
 - 2026-10-11: Chester Carlson, Copy That, posted to X through Typefully (earlier pipeline).
