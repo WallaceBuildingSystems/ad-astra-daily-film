@@ -60,11 +60,12 @@ Take the first builder in PLAYBOOK.md's approved queue with no line in LOG.md an
 4. Mux each: `ffmpeg -i work/x_video.mp4 -i work/mix.wav -map 0:v -map 1:a -c:v copy -c:a aac -b:a 192k -t DURATION -movflags +faststart work/x.mp4`, the same for work/reel.mp4.
 5. Check, and fix and render again if anything fails: a contact sheet of each cut every 1.5 seconds, looked at for overlapping or clipped text, any picture that looks generated, any wrong number; the transcript of work/mix.wav against the script; loudness near minus 14 LUFS (ffmpeg ebur128); both cuts the same length and frame count.
 
-## Step 6, captions (films/<folder>/captions.json, model films/2026-10-13-hall/captions.json)
+## Step 6, captions (films/<folder>/captions.json, model kit/example_captions.json)
 
-- X: at most 280 characters, the most surprising fact first, the story in a line or two, "Builders wanted.", the line "Images generated with Runway, voice with ElevenLabs.", and exactly 3 hashtags. No links, Upload Post strips them on X.
-- Instagram: the hook, what the builder did in 2 short paragraphs, the ordinary-life number, then "Builders wanted. The Ad Astra Fellowship: 12 months, a room, food, the labs, the machine shop and the compute at $0, a company in your name from day 1. 1 written application, no credentials needed. Apply at joinadastra.com", then the sources with the same disclosure line, then 6 to 8 hashtags.
+- X: at most 280 characters, the most surprising fact first, the story in a line or two, "Builders wanted." and exactly 3 hashtags. No links, Upload Post strips them on X.
+- Instagram: the hook, what the builder did in 2 short paragraphs, the ordinary-life number, then "Builders wanted. The Ad Astra Fellowship: 12 months, a room, food, the labs, the machine shop and the compute at $0, a company in your name from day 1. 1 written application, no credentials needed. Apply at joinadastra.com", then the sources, then 6 to 8 hashtags.
 - Every post carries hashtags (James, 13 October 2026), chosen for reach on the topic.
+- No caption names the tools: never "Runway", "ElevenLabs" or "generated with" in any post (James, 14 October 2026).
 
 ## Step 7, stage and send for review (by 9:00 am Melbourne)
 

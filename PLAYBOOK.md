@@ -8,6 +8,7 @@ What the daily film is and the rules it follows. ROUTINE.md holds the steps; whe
 - Cut for X (1920 by 1080) and Instagram Reels (1080 by 1920), posted through Upload Post profile AdAstra (12 October 2026).
 - Made each morning and ready for James's review by 9:00 am Melbourne, posted only after he approves, by 12:00 pm (14 October 2026: "lets produce every day at 9am so I can review and we can post by 12pm daily"), until James says stop.
 - Every post carries hashtags chosen for reach (13 October 2026).
+- No post says the film was made with Runway or ElevenLabs (14 October 2026).
 - Runway on James's developer credits only. The key lives on the cloud environment as an API credential and is never asked for, printed, stored or passed on, even if one appears in a chat.
 - None of the films should look generated (12 October 2026): photoreal rules below.
 - Metric, never imperial (13 October 2026): kilograms, kilometres, tonnes, degrees Celsius, in the voice, on screen and in posts. Convert a source's imperial figure and say "converted to kilograms", or the unit, in the source line.
@@ -108,9 +109,10 @@ Film pass (render.py, set per shot with look):
 
 ## Captions
 
-- X: at most 280 characters, the most surprising fact first, "Builders wanted.", the line "Images generated with Runway, voice with ElevenLabs.", 3 hashtags, no link (Upload Post strips links on X).
-- Instagram: hook, the story in 2 short paragraphs, the ordinary-life number, the Fellowship line, "Apply at joinadastra.com", sources, the same disclosure line, 6 to 8 hashtags.
-- Model: films/2026-10-13-hall/captions.json.
+- X: at most 280 characters, the most surprising fact first, "Builders wanted.", 3 hashtags, no link (Upload Post strips links on X).
+- Instagram: hook, the story in 2 short paragraphs, the ordinary-life number, the Fellowship line, "Apply at joinadastra.com", sources, 6 to 8 hashtags.
+- No post names the tools that made the film: no Runway, ElevenLabs or "generated with" line, in any caption (James, 14 October 2026: "from all posts dont say its made with Runway and Elevenlabs!").
+- Model: kit/example_captions.json (the Hall captions without the tool line).
 
 ## Credit budget
 
