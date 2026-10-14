@@ -142,6 +142,8 @@ LOOKS = {
     "plate":    dict(sat=0.00, tone=(1.06, 0.99, 0.86), soft=1.3, hal=0.20, grain=0.060, dust=8, scratch=0.05, flick=0.045, weave=2.0, lift=0.055, crush=0.92),
     "archival": dict(sat=0.30, tone=(1.05, 0.99, 0.88), soft=1.1, hal=0.18, grain=0.055, dust=5, scratch=0.035, flick=0.035, weave=1.6, lift=0.045, crush=0.94),
     "early":    dict(sat=0.12, tone=(1.03, 1.00, 0.93), soft=0.9, hal=0.16, grain=0.050, dust=3, scratch=0.025, flick=0.030, weave=1.3, lift=0.040, crush=0.95),
+    "reel16":   dict(sat=0.0, tone=(1.025, 1.00, 0.955), soft=1.5, hal=0.12, grain=0.095, dust=9, scratch=0.06, flick=0.05, weave=2.2, lift=0.05, crush=0.93, hand=1.0),
+    "snap":     dict(sat=0.78, tone=(1.02, 1.00, 0.97), soft=1.0, hal=0.12, grain=0.058, dust=2, scratch=0.0, flick=0.012, weave=1.0, lift=0.04, crush=0.95, hand=0.7),
     "film":     dict(sat=0.88, tone=(1.03, 1.00, 0.95), soft=0.6, hal=0.14, grain=0.040, dust=0, scratch=0.0, flick=0.010, weave=0.5, lift=0.025, crush=0.97),
     "modern":   dict(sat=0.94, tone=(1.02, 1.00, 0.97), soft=0.45, hal=0.10, grain=0.032, dust=0, scratch=0.0, flick=0.0, weave=0.0, lift=0.018, crush=0.98),
 }
@@ -198,8 +200,11 @@ class Shot:
         self.pan = d.get("pan", [[0, 0], [0, 0]])
         self.look = d.get("look", "modern")
         self.weave = LOOKS.get(self.look, LOOKS["modern"])["weave"]
+        self.hand = LOOKS.get(self.look, LOOKS["modern"]).get("hand", 0.0)
         if self.weave > 0:  # leave room for the gate weave
             self.z = [max(self.z[0], 1.035), max(self.z[1], 1.05)]
+        if self.hand > 0:  # and for the handheld drift
+            self.z = [max(self.z[0], 1.07), max(self.z[1], 1.08)]
         self.cap = None
         self.img = None
         self.last = None
@@ -263,6 +268,9 @@ class Shot:
             dy = wpx * 0.7 * (0.5 * math.sin(i * 0.29 + 1.0) + 0.3 * math.sin(i * 0.97) + 0.25 * r.normal())
             cx += dx * cw / self.W
             cy += dy * ch / self.H
+        if self.hand > 0:  # slow handheld sway, a few tenths of a per cent of the frame
+            cx += self.hand * cw * (0.006 * math.sin(t * 1.3 + 0.4) + 0.004 * math.sin(t * 3.1 + 1.7))
+            cy += self.hand * ch * (0.005 * math.sin(t * 1.1 + 2.1) + 0.004 * math.sin(t * 2.7))
         x0 = min(max(0, cx - cw / 2), sw - cw)
         y0 = min(max(0, cy - ch / 2), sh - ch)
         M = np.array([[self.W / cw, 0, -x0 * self.W / cw], [0, self.H / ch, -y0 * self.H / ch]], np.float32)

@@ -1,0 +1,645 @@
+{
+ "duration": 46.6,
+ "shots": [
+  {
+   "src": "src/s01_casings.png",
+   "kind": "image",
+   "t0": 0.0,
+   "t1": 2.692,
+   "look": "reel16",
+   "focus": [
+    0.4,
+    0.5
+   ]
+  },
+  {
+   "src": "src/s02_town.mp4",
+   "kind": "video",
+   "t0": 2.692,
+   "t1": 5.917,
+   "look": "reel16",
+   "src_in": 0.0,
+   "speed": 0.6
+  },
+  {
+   "src": "src/s03_ward.png",
+   "kind": "image",
+   "t0": 5.917,
+   "t1": 8.533,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/s04_doctor.png",
+   "kind": "image",
+   "t0": 8.533,
+   "t1": 11.592,
+   "look": "reel16",
+   "focus": [
+    0.68,
+    0.5
+   ]
+  },
+  {
+   "src": "src/s05_cellophane.png",
+   "kind": "image",
+   "t0": 11.592,
+   "t1": 15.15,
+   "look": "reel16",
+   "focus": [
+    0.45,
+    0.6
+   ]
+  },
+  {
+   "src": "src/s07_blood.mp4",
+   "kind": "video",
+   "t0": 15.15,
+   "t1": 16.95,
+   "look": "reel16",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/s06_drum.mp4",
+   "kind": "video",
+   "t0": 16.95,
+   "t1": 19.075,
+   "look": "reel16",
+   "src_in": 2.0,
+   "z": [
+    1.04,
+    1.06
+   ]
+  },
+  {
+   "src": "src/s08_tank.mp4",
+   "kind": "video",
+   "t0": 19.075,
+   "t1": 21.85,
+   "look": "reel16",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/s09_bed.png",
+   "kind": "image",
+   "t0": 21.85,
+   "t1": 24.708,
+   "look": "reel16",
+   "z": [
+    1.04,
+    1.14
+   ]
+  },
+  {
+   "src": "src/s10_canal.mp4",
+   "kind": "video",
+   "t0": 24.708,
+   "t1": 28.45,
+   "look": "reel16",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/s11_woman.png",
+   "kind": "image",
+   "t0": 28.45,
+   "t1": 30.958,
+   "look": "reel16",
+   "focus": [
+    0.6,
+    0.5
+   ]
+  },
+  {
+   "src": "src/s12_machine.mp4",
+   "kind": "video",
+   "t0": 30.958,
+   "t1": 33.583,
+   "look": "reel16",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/s13_bench.png",
+   "kind": "image",
+   "t0": 33.583,
+   "t1": 35.617,
+   "look": "reel16",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "src/s14_clinic.png",
+   "kind": "image",
+   "t0": 35.617,
+   "t1": 39.308,
+   "look": "snap",
+   "z": [
+    1.04,
+    1.14
+   ],
+   "focus": [
+    0.62,
+    0.55
+   ]
+  },
+  {
+   "src": "src/s15_dialyser.png",
+   "kind": "image",
+   "t0": 39.308,
+   "t1": 41.65,
+   "look": "snap",
+   "focus": [
+    0.45,
+    0.55
+   ]
+  },
+  {
+   "src": "src/s16_window.mp4",
+   "kind": "video",
+   "t0": 41.65,
+   "t1": 44.503,
+   "look": "reel16",
+   "src_in": 0.3
+  }
+ ],
+ "headlines": [
+  {
+   "t0": 0.05,
+   "t1": 2.652,
+   "lines": [
+    [
+     {
+      "w": "A",
+      "t": 0.0
+     },
+     {
+      "w": "kidney",
+      "t": 0.16
+     },
+     {
+      "w": "machine",
+      "t": 0.42
+     }
+    ],
+    [
+     {
+      "w": "from",
+      "t": 1.1
+     },
+     {
+      "w": "sausage",
+      "t": 1.36
+     },
+     {
+      "w": "skins.",
+      "t": 1.78
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 2.712,
+   "t1": 5.877,
+   "lines": [
+    [
+     {
+      "w": "1943.",
+      "t": 2.84
+     }
+    ],
+    [
+     {
+      "w": "Occupied",
+      "t": 4.4
+     },
+     {
+      "w": "Netherlands.",
+      "t": 4.84
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 5.937,
+   "t1": 8.493,
+   "lines": [
+    [
+     {
+      "w": "Kidney",
+      "t": 6.06
+     },
+     {
+      "w": "failure:",
+      "t": 6.22
+     }
+    ],
+    [
+     {
+      "w": "death",
+      "t": 6.92
+     },
+     {
+      "w": "in",
+      "t": 7.28
+     },
+     {
+      "w": "days.",
+      "t": 7.56
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 8.553,
+   "t1": 11.552,
+   "lines": [
+    [
+     {
+      "w": "Willem",
+      "t": 8.8
+     },
+     {
+      "w": "Kolff,",
+      "t": 8.96
+     }
+    ],
+    [
+     {
+      "w": "aged",
+      "t": 10.4
+     },
+     {
+      "w": "32.",
+      "t": 10.54
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 11.612,
+   "t1": 15.11,
+   "lines": [
+    [
+     {
+      "w": "Sausage",
+      "t": 12.6
+     },
+     {
+      "w": "casing",
+      "t": 13.04
+     }
+    ],
+    [
+     {
+      "w": "on",
+      "t": 13.44
+     },
+     {
+      "w": "a",
+      "t": 13.74
+     },
+     {
+      "w": "drum.",
+      "t": 14.26
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 15.17,
+   "t1": 19.035,
+   "lines": [
+    [
+     {
+      "w": "Blood",
+      "t": 15.18
+     },
+     {
+      "w": "through",
+      "t": 15.84
+     }
+    ],
+    [
+     {
+      "w": "the",
+      "t": 16.08
+     },
+     {
+      "w": "casing.",
+      "t": 16.22
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 19.095,
+   "t1": 21.81,
+   "lines": [
+    [
+     {
+      "w": "Waste",
+      "t": 19.22
+     },
+     {
+      "w": "out.",
+      "t": 19.76
+     }
+    ],
+    [
+     {
+      "w": "Clean",
+      "t": 20.52
+     },
+     {
+      "w": "blood",
+      "t": 20.7
+     },
+     {
+      "w": "back.",
+      "t": 20.96
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 24.728,
+   "t1": 28.41,
+   "lines": [
+    [
+     {
+      "w": "September",
+      "t": 24.34
+     },
+     {
+      "w": "1945.",
+      "t": 25.7
+     }
+    ],
+    [
+     {
+      "w": "Patient",
+      "t": 26.74
+     },
+     {
+      "w": "17.",
+      "t": 27.38
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 28.47,
+   "t1": 30.918,
+   "lines": [
+    [
+     {
+      "w": "67",
+      "t": 28.62
+     },
+     {
+      "w": "years",
+      "t": 29.02
+     },
+     {
+      "w": "old,",
+      "t": 29.36
+     }
+    ],
+    [
+     {
+      "w": "in",
+      "t": 29.84
+     },
+     {
+      "w": "a",
+      "t": 30.2
+     },
+     {
+      "w": "coma.",
+      "t": 30.3
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 30.978,
+   "t1": 33.543,
+   "lines": [
+    [
+     {
+      "w": "She",
+      "t": 32.32
+     },
+     {
+      "w": "woke.",
+      "t": 32.86
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 33.603,
+   "t1": 35.577,
+   "lines": [
+    [
+     {
+      "w": "7",
+      "t": 34.1
+     },
+     {
+      "w": "more",
+      "t": 34.5
+     },
+     {
+      "w": "years.",
+      "t": 34.76
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 39.328,
+   "t1": 41.61,
+   "lines": [
+    [
+     {
+      "w": "Still",
+      "t": 40.28
+     },
+     {
+      "w": "his",
+      "t": 40.6
+     },
+     {
+      "w": "idea.",
+      "t": 40.86
+     }
+    ]
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "t0": 2.74,
+   "t1": 5.877,
+   "text": "Kampen, the Netherlands, 1943."
+  },
+  {
+   "t0": 11.692,
+   "t1": 15.11,
+   "text": "Cellophane tubing made from sausage casing, wound on a drum. Source: Lasker Foundation"
+  },
+  {
+   "t0": 24.808,
+   "t1": 28.41,
+   "text": "September 1945. Source: Lasker Foundation"
+  },
+  {
+   "t0": 31.058,
+   "t1": 35.577,
+   "text": "Patient 17 woke after hours of dialysis and lived 7 more years. Source: Lasker Foundation"
+  }
+ ],
+ "counters": [
+  {
+   "t0": 21.85,
+   "t1": 24.668,
+   "a": 0,
+   "b": 14,
+   "fmt": "int",
+   "prefix": "",
+   "unit": " of 15",
+   "tick": [
+    21.98,
+    24.258
+   ],
+   "src": "Patients lost of the first 15 treated, 1943 to 1945. Source: Kolff, Lasker Foundation"
+  },
+  {
+   "t0": 35.617,
+   "t1": 39.268,
+   "a": 0,
+   "b": 1500000,
+   "fmt": "int",
+   "prefix": "",
+   "unit": "",
+   "tick": [
+    35.85,
+    38.858
+   ],
+   "src": "People on dialysis, 1943, then today. Source: Lasker Foundation"
+  }
+ ],
+ "lists": [],
+ "subtitles": [
+  {
+   "t0": 0.0,
+   "t1": 2.52,
+   "text": "A kidney machine built from sausage skins."
+  },
+  {
+   "t0": 2.692,
+   "t1": 5.703,
+   "text": "1943, German-occupied Netherlands."
+  },
+  {
+   "t0": 5.917,
+   "t1": 8.32,
+   "text": "Kidney failure meant death within days."
+  },
+  {
+   "t0": 8.533,
+   "t1": 11.42,
+   "text": "Willem Kolff, doctor, aged 32."
+  },
+  {
+   "t0": 11.592,
+   "t1": 14.937,
+   "text": "He wound cellophane sausage casing around a rotating drum."
+  },
+  {
+   "t0": 15.15,
+   "t1": 16.95,
+   "text": "Blood ran through the casing."
+  },
+  {
+   "t0": 16.98,
+   "t1": 18.903,
+   "text": "The drum turned in a tank of fluid."
+  },
+  {
+   "t0": 19.075,
+   "t1": 21.72,
+   "text": "Waste passed out. Clean blood returned."
+  },
+  {
+   "t0": 21.85,
+   "t1": 24.453,
+   "text": "14 of his first 15 patients died."
+  },
+  {
+   "t0": 24.708,
+   "t1": 28.32,
+   "text": "September 1945, patient 17."
+  },
+  {
+   "t0": 28.45,
+   "t1": 30.828,
+   "text": "A 67-year-old woman, in a coma."
+  },
+  {
+   "t0": 30.958,
+   "t1": 33.412,
+   "text": "After hours on the machine, she woke."
+  },
+  {
+   "t0": 33.583,
+   "t1": 35.487,
+   "text": "She lived 7 more years."
+  },
+  {
+   "t0": 35.617,
+   "t1": 39.053,
+   "text": "Today, 1.5 million people are on dialysis."
+  },
+  {
+   "t0": 39.308,
+   "t1": 41.52,
+   "text": "Each treatment is still his idea."
+  }
+ ],
+ "glitches": [
+  35.617,
+  41.65
+ ],
+ "end": {
+  "t0": 41.65,
+  "words": [
+   {
+    "w": "Ad",
+    "t": 41.32
+   },
+   {
+    "w": "Astra.",
+    "t": 41.94
+   }
+  ],
+  "slogan": [
+   {
+    "w": "Fucking",
+    "t": 42.68
+   },
+   {
+    "w": "accelerate.",
+    "t": 43.48
+   }
+  ],
+  "card_t": 44.503,
+  "emblem": "kit/emblem.jpg",
+  "url_line": "Apply at joinadastra.com"
+ }
+}

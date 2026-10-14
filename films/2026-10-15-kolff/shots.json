@@ -1,0 +1,125 @@
+{
+ "style_past": "35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T",
+ "shots": [
+  {
+   "id": "s01_casings",
+   "look": "early",
+   "video": false,
+   "still": "Pale translucent natural sausage casings hung in loose looping hanks over a scrubbed wooden rack in the back room of a Dutch butcher's shop in 1943, a tiled wall behind, a zinc table, no people, soft grey window light from the left, slightly damp, shallow depth of field, the hanks in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s02_town",
+   "look": "early",
+   "video": true,
+   "still": "A narrow brick canal town in the occupied Netherlands in the winter of 1943 at dusk, a church tower far behind steep roofs, bicycles leaning on a bridge rail, wet cobbles, smoke rising from two chimneys, one figure far away walking away with their back turned, overcast light, slight motion blur, the canal in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Chimney smoke drifts upward and low cloud moves slowly across the tower. Locked-off camera."
+  },
+  {
+   "id": "s03_ward",
+   "look": "early",
+   "video": false,
+   "still": "The end of a long hospital ward in 1943, two rows of iron-framed beds with white sheets and grey wool blankets, tall windows on one side giving flat overcast light, bare floorboards with worn paint, a single nurse at the far end seen from behind and out of focus, shallow depth of field, the aisle in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s04_doctor",
+   "look": "early",
+   "video": false,
+   "still": "A young doctor in a white coat seen from behind and slightly out of focus, standing at a small cluttered wooden desk beside a window in a small provincial hospital office in 1943, a desk lamp, stacked papers, a glass flask, grey daylight, the desk and window in the middle third, his face not visible. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s05_cellophane",
+   "look": "early",
+   "video": false,
+   "still": "A long coil of pale cellophane tubing lying on a rough wooden workbench beside a wooden drum frame with slatted sides, in a cold hospital workshop in 1943, coils of rubber hose, a vice, enamel basins, light from a single bare bulb, dust and shavings, no people, the coil in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s06_drum",
+   "look": "early",
+   "video": true,
+   "still": "A horizontal wooden drum wound with pale cellophane tubing turning partly submerged in a large white enamel tank of liquid, splashes on the tank rim, rubber tubes, in a dim hospital room in 1944, lit by one bare bulb above, droplets in the air, a little motion blur on the drum, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "The drum turns steadily in the tank, liquid ripples and drips from the tubing. Locked-off camera."
+  },
+  {
+   "id": "s07_blood",
+   "look": "early",
+   "video": true,
+   "still": "Dark red liquid running through a loop of clear glass tubing and a rubber hose into an enamel bowl on a metal trolley, in a hospital room in 1944, lit by a bare bulb and grey window light, glass catching a little glare, worn enamel chipped at the edge, no people, the tubing in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "The dark red liquid moves slowly along the tubing and drips into the bowl. Locked-off camera."
+  },
+  {
+   "id": "s08_tank",
+   "look": "early",
+   "video": true,
+   "still": "A large white chipped enamel tank of pale amber liquid with a thin haze of steam rising, rubber hoses hanging over its rim and a wooden stand beneath, a bare tiled hospital floor, 1944, lit by one bare bulb and a grey window, slight condensation on the enamel, no people, the tank in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Faint steam rises off the liquid and the surface ripples gently. Locked-off camera."
+  },
+  {
+   "id": "s09_bed",
+   "look": "early",
+   "video": false,
+   "still": "An empty iron hospital bed in a dim ward in 1944, sheets pulled flat and a grey wool blanket folded at the foot, one chair beside it, flat grey light from a tall window, scuffed floorboards, no people, shallow depth of field, the bed in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s10_canal",
+   "look": "early",
+   "video": true,
+   "still": "A quiet Dutch canal at first light in September 1945, brick houses with shuttered windows on one bank, a few fallen leaves on the water, a moored wooden barge, mist low on the surface, one bicycle against a tree, no people, overcast dawn light, slight softness at the edges. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Mist drifts slowly over the water and the surface moves in small ripples. Locked-off camera."
+  },
+  {
+   "id": "s11_woman",
+   "look": "early",
+   "video": false,
+   "still": "An elderly woman lying in an iron hospital bed seen from behind and above, her grey hair spread on a pillow, wool blanket pulled up, her face turned away from the camera and out of focus, in a dim ward in September 1945, window light from the left, a chair and an enamel basin beside the bed, the bed in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s12_machine",
+   "look": "early",
+   "video": true,
+   "still": "A homemade dialysis machine beside a hospital bed in 1945: a wooden drum wound with pale tubing turning in a white enamel tank, rubber hoses running to the bed, in a dim room at night, lit by a single bare bulb and a little window light, drips and condensation on the enamel, the bed and a patient barely visible and out of focus in the background, no faces. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "The drum turns slowly in the tank and drips fall from the tubing. Locked-off camera."
+  },
+  {
+   "id": "s13_bench",
+   "look": "early",
+   "video": false,
+   "still": "An empty wooden park bench in an autumn garden in the Netherlands in 1952, a woollen shawl folded on its seat, yellow leaves on the gravel path, bare trees behind, soft overcast light, no people, slight softness at the edges, the bench in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s14_clinic",
+   "look": "modern",
+   "video": true,
+   "still": "A modern dialysis clinic with a row of reclining chairs and dialysis machines, patients seen from behind and out of focus under blankets, a nurse far away at the end of the room, bright daylight from large windows. Documentary photograph, full-frame camera, 35mm lens, available light, slight softness, no faces in focus, no readable words, no logos.",
+   "seconds": 5,
+   "motion": "A patient shifts slightly under a blanket and the machine displays blink softly. Locked-off camera."
+  },
+  {
+   "id": "s15_dialyser",
+   "look": "modern",
+   "video": false,
+   "still": "A modern dialyser, a clear plastic cylinder packed with fine hollow fibres, lying on a clean steel tray beside coiled clear tubing in a hospital room, soft daylight from a window, shallow depth of field, the cylinder in the middle third. Documentary photograph, full-frame camera, 50mm lens, available light, no readable words, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s16_window",
+   "look": "early",
+   "video": true,
+   "still": "A dark hospital window at night with rain running down the glass, the blurred glow of a single street lamp outside, an empty iron bed edge and a folded blanket visible faintly in the room, 1945, cold blue light, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Rain runs down the glass and the lamp glow shimmers. Locked-off camera."
+  }
+ ]
+}
