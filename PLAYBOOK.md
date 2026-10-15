@@ -100,7 +100,13 @@ Film pass (render.py, set per shot with look):
 - archival: 1800s scenes, colourised archival (30 per cent colour), softness, red halation, heavy grain, gate weave, flicker, dust and the odd scratch.
 - early: 1900 to 1940, near monochrome.
 - film: night skies and aerials, 35mm film feel.
-- modern: today, light grain and halation only.
+- reel16: 1940s to 1960s, black and white 16 millimetre, heavy grain, dust, scratches, gate weave, handheld sway (James, 15 October 2026: "make it all less AI looking, like shot with a real camera").
+- snap: today, phone-snapshot look, muted colour, light grain, slight handheld sway. Prompt today's stills as casual phone photos.
+- modern: today, light grain and halation only (looked too clean on 15 October; prefer snap).
+
+## Runway fallback when the key is missing
+
+In a session with the browser pane signed in to dev.runwayml.com: from a page on that site, POST /trpc/invokeAPI?batch=1 with projectId b9d66e18-5c50-4dba-9158-54811a5c8be6 and a request {method, path /v1/text_to_image or /v1/image_to_video, body as a json string, headers Content-Type and X-Runway-Version 2024-11-06}; poll /trpc/getAPITaskDetail; download the signed output url with curl. The Runway connector is on the free plan and cannot make the films.
 
 ## Formats
 
