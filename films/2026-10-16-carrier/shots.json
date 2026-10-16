@@ -1,0 +1,125 @@
+{
+ "style_past": "35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+ "shots": [
+  {
+   "id": "s01_press",
+   "look": "early",
+   "video": false,
+   "still": "The inside of a lithographic printing plant in Brooklyn in 1902, a heavy cast iron flatbed press in the middle third, stacks of coloured printed sheets on a wooden bench, dust in the air, soft grey light from tall windows, scuffed brick walls, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s02_brooklyn",
+   "look": "early",
+   "video": true,
+   "still": "A Brooklyn street of brick factories in the summer of 1902, a horse cart on cobbles, steam rising from a roof vent, heat haze, one figure far away walking away with their back turned, hazy overcast light, slight motion blur, the street in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Steam drifts upward from the roof vent and the haze shimmers slightly. Locked-off camera."
+  },
+  {
+   "id": "s03_paper",
+   "look": "early",
+   "video": false,
+   "still": "Large sheets of multicolour printed paper hanging on wooden drying poles in a humid printing room in 1902, the sheets curling and wavy at the edges, colours blurred slightly out of line, damp air, soft window light, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s04_deadline",
+   "look": "early",
+   "video": true,
+   "still": "A dim print works office at night in 1902, a gas lamp burning on a cluttered wooden desk, a stack of printed unbound sheets beside it, a wall clock face blurred, no people, warm lamp pool against dark. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "The gas flame flickers gently and the light moves on the paper. Locked-off camera."
+  },
+  {
+   "id": "s05_engineer",
+   "look": "early",
+   "video": false,
+   "still": "A young man in a wool waistcoat and shirt sleeves seen from behind, standing at a tall window in a 1902 engineering office, looking out over brick rooftops, a drafting table with drawings beside him, overcast light, out of focus, the figure in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s06_target",
+   "look": "early",
+   "video": true,
+   "still": "A close view of copper water pipes with fine droplets of condensation running down them in a 1902 factory basement, a brass valve wheel, damp stone floor, a single window of cool light, slight motion blur on the drips, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Droplets of condensation slowly form and run down the cold copper pipes. Locked-off camera."
+  },
+  {
+   "id": "s07_coils",
+   "look": "early",
+   "video": true,
+   "still": "A bank of large copper pipe coils beside a big iron fan housing in the basement of a 1902 printing works, cool damp air, a little mist hanging in the beam of light from a high window, riveted iron, wet floor, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Cool mist drifts slowly through the light beam above the coils. Locked-off camera."
+  },
+  {
+   "id": "s08_room",
+   "look": "early",
+   "video": true,
+   "still": "A tall printing room in 1902 with neat stacks of flat printed paper on long benches, iron steam pipes running along the brick wall, even light from high windows, dust in the air, no people, the benches in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Faint steam drifts from the pipes and dust floats in the window light. Locked-off camera."
+  },
+  {
+   "id": "s09_drawings",
+   "look": "early",
+   "video": false,
+   "still": "A wooden drafting desk in 1902 with large pencil engineering drawings spread flat, a brass compass, an ink bottle, rolled sheets, soft window light from the left, shallow depth of field, drawings unreadable, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s10_patent",
+   "look": "early",
+   "video": false,
+   "still": "Shelves of old bundled papers tied with string in a 1906 government office, wooden pigeonholes, a green-shaded lamp on a desk, dust in the air, soft light, no people, shallow depth of field. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s11_factory",
+   "look": "early",
+   "video": true,
+   "still": "A sheet metal workshop in 1915 with big riveted steel fan casings on the floor, a brick wall, high windows, steam from a boiler pipe at the back, two workers far away seen from behind, smoky overcast light, the casings in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Steam drifts from the boiler pipe and smoke curls through the window light. Locked-off camera."
+  },
+  {
+   "id": "s12_homes",
+   "look": "snap",
+   "video": false,
+   "still": "A row of suburban American houses at dusk, window air conditioning units in two upstairs windows, small outdoor condenser boxes beside the walls, a parked car, warm porch lights. Casual phone snapshot, slightly tilted, uneven exposure, a little noise, nothing posed, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s13_unit",
+   "look": "snap",
+   "video": false,
+   "still": "A grey outdoor air conditioning condenser unit beside a brick wall with a green hose and a little water dripping, afternoon sun, weeds at its base, shot slightly from above. Casual phone snapshot, slightly tilted, uneven exposure, a little noise, nothing posed, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s14_room",
+   "look": "snap",
+   "video": false,
+   "still": "A bedroom in the evening with a white wall mounted air conditioner above an unmade bed, a lamp on, curtains half closed, a charger cable on the floor. Casual phone snapshot, slightly tilted, uneven exposure, a little noise, nothing posed, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s15_fins",
+   "look": "snap",
+   "video": true,
+   "still": "A close shot of the thin aluminium fins of an air conditioner coil with beads of condensation on them, side light from a window, shallow focus. Casual phone snapshot, slightly tilted, uneven exposure, a little noise, nothing posed, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Beads of condensation grow and a few drops run slowly down the fins. Locked-off camera."
+  },
+  {
+   "id": "s16_stars",
+   "look": "film",
+   "video": true,
+   "still": "A clear night sky full of stars over a dark ridge line, the Milky Way faint, cold air, a little film grain, 35mm night sky photograph on long exposure, no people, no text. ",
+   "seconds": 5,
+   "motion": "Stars drift very slowly across the sky. Locked-off camera."
+  }
+ ]
+}
