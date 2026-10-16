@@ -7,7 +7,7 @@ What the daily film is and the rules it follows. ROUTINE.md holds the steps; whe
 - 1 film a day, about 40 seconds, about one builder whose invention made something cheap and abundant or changed how we live, an industry or the cost of goods (12 October 2026).
 - Cut for X (1920 by 1080) and Instagram Reels (1080 by 1920), posted through Upload Post profile AdAstra (12 October 2026).
 - Made each morning and ready for James's review by 9:00 am Melbourne, posted only after he approves, by 12:00 pm (14 October 2026: "lets produce every day at 9am so I can review and we can post by 12pm daily"), until James says stop.
-- Every post carries hashtags chosen for reach (13 October 2026).
+- Every post carries hashtags chosen for reach (13 October 2026). James, 16 October 2026: use the most popular tags, not niche ones. Rule: X takes 3 broad high-volume tags, #science #technology #innovation first, swapping 1 for the field when it is bigger (#medicine, #engineering, #space, #history). Instagram takes 8: #science #technology #innovation #engineering #inventions #history #entrepreneur #motivation, swapping at most 2 for the field's biggest tag (#medicine, #health, #space, #aviation, #food). Do not use #airconditioning-style niche tags. Posts already live keep their tags (neither platform lets Upload Post edit them).
 - No post says the film was made with Runway or ElevenLabs (14 October 2026).
 - Runway on James's developer credits only. The key lives on the cloud environment as an API credential and is never asked for, printed, stored or passed on, even if one appears in a chat.
 - None of the films should look generated (12 October 2026): photoreal rules below.
