@@ -1,0 +1,3 @@
+# 2026-10-18 Clarence Birdseye: FAILED, no film made
+
+Melbourne time 6:47 am. Runway works (87,262 credits). Every source host fails (WebFetch ENOTFOUND for wikipedia.org and loc.gov; curl to si.edu, britannica.com, patents.google.com gets no connection through the proxy). WebSearch returns snippets only, which are not sources opened in this run, and they already disagree on dates (Birds Eye company 1923 or General Seafood Corporation 1924; patent 1,511,824 in 1924). Under the sourcing rule the film cannot be researched. Nothing made, staged, posted or scheduled; no credits spent. Next in queue: Clarence Birdseye. Fix needed: open the environment's network access to museum, university, government and patent hosts.
