@@ -1,0 +1,110 @@
+{
+ "style_past": " 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+ "shots": [
+  {
+   "id": "s01_ice",
+   "look": "reel16",
+   "video": false,
+   "still": "Freshly caught silver fish lying stiff on thick grey sea ice in Labrador, 1912, low winter sun, frost on the fish, snow blowing at ground level, close view from a low angle, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s02_labrador",
+   "look": "reel16",
+   "video": true,
+   "still": "A bleak Labrador coastline in 1912 in winter, frozen bay with pressure ridges of sea ice, a small wooden trading hut with smoke from its chimney, low cold light, no people in focus. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s03_fishermen",
+   "look": "reel16",
+   "video": false,
+   "still": "Two fishermen in fur parkas seen from behind, kneeling at a small hole in thick sea ice in Labrador in 1912, a fish line in the hole, frozen fish on the ice beside them, a fur trader in a heavy coat standing a little way behind watching, grey arctic light, faces not visible. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s04_catch",
+   "look": "reel16",
+   "video": false,
+   "still": "A pile of stiff frozen fish on snow beside a hole in the ice, frost crystals on the scales, cold blue light, close view, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s05_pan",
+   "look": "reel16",
+   "video": false,
+   "still": "A cast iron pan with cooked white fish fillets on a small wood stove in a plain 1912 timber hut, steam rising, a tin plate and a knife on a rough table, warm lamplight, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s06_mush",
+   "look": "reel16",
+   "video": false,
+   "still": "A 1920s shop counter with a tray of thawed pale fish fillets in a puddle of meltwater, soft and grey, a brass scale and a paper wrapper, flat shop light, no people in focus. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s07_crystals",
+   "look": "reel16",
+   "video": false,
+   "still": "A black and white microscope photograph of frozen fish tissue with large jagged ice crystals tearing the cells, laboratory glass slide, grey tones, scientific plate from the 1920s. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s08_wind",
+   "look": "reel16",
+   "video": true,
+   "still": "Open arctic ice at dawn with wind blowing fine snow across the surface, a few distant pressure ridges, cold pale sky, empty landscape, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s09_freezer",
+   "look": "reel16",
+   "video": true,
+   "still": "A 1920s experimental freezing machine in a workshop, two long steel belts and chilled steel plates with frost on them, pipes and a pressure gauge, a worker in an apron far away at the edge of the frame, grey window light. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s10_ledger",
+   "look": "reel16",
+   "video": false,
+   "still": "A 1924 small office desk with an open ledger, unpaid bills and a brass lamp, a closed wooden door with frosted glass behind it, dim late light, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s11_workbench",
+   "look": "reel16",
+   "video": false,
+   "still": "A man in shirtsleeves seen from behind working at a bench in a cold workshop at night, frosted steel plates and tools on the bench under a single hanging lamp, 1925. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s12_store",
+   "look": "reel16",
+   "video": false,
+   "still": "The inside of a small 1930 grocery shop in New England with a new glass fronted freezer display case holding flat paper wrapped frozen packs, wooden shelves, a shopkeeper far away behind the counter, winter daylight through the window. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s13_kitchen",
+   "look": "snap",
+   "video": false,
+   "still": "A home kitchen in the evening, an open freezer drawer with bags of frozen vegetables and a tub of ice, light from inside the freezer, a plain bench, a mug. Casual phone snapshot, slightly tilted, uneven exposure, a little noise, nothing posed, clean image with no scribbles, no marks, no overlays, no border, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s14_peas",
+   "look": "snap",
+   "video": true,
+   "still": "A family dinner table at home seen from a seat, plates of fish and green peas, a jug of water, a child's hand out of focus, warm evening light from a window. Casual phone snapshot, slightly tilted, uneven exposure, a little noise, nothing posed, clean image with no scribbles, no marks, no overlays, no border, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s15_aurora",
+   "look": "film",
+   "video": true,
+   "still": "A still arctic night over snow and ice with faint green aurora across a starry sky, a dark ridge far away, cold air, a little film grain, 35mm night sky photograph on long exposure, no people, no text. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  }
+ ]
+}
