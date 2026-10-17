@@ -62,9 +62,9 @@ Take the first builder in PLAYBOOK.md's approved queue with no line in LOG.md an
 
 ## Step 6, captions (films/<folder>/captions.json, model kit/example_captions.json)
 
-- X: at most 280 characters, the most surprising fact first, the story in a line or two, "Builders wanted." and exactly 3 hashtags. No links, Upload Post strips them on X.
-- Instagram: the hook, what the builder did in 2 short paragraphs, the ordinary-life number, then "Builders wanted. The Ad Astra Fellowship: 12 months, a room, food, the labs, the machine shop and the compute at $0, a company in your name from day 1. 1 written application, no credentials needed. Apply at joinadastra.com", then the sources, then 6 to 8 hashtags.
-- Every post carries hashtags (James, 13 October 2026), the most popular ones for reach (James, 16 October 2026), following the hashtag rule in PLAYBOOK.md.
+- X: at most 280 characters, the most surprising fact first, the story in a line or two, "Builders wanted." and exactly 5 hashtags. No links, Upload Post strips them on X.
+- Instagram: the hook, what the builder did in 2 short paragraphs, the ordinary-life number, then "Builders wanted. The Ad Astra Fellowship: 12 months, a room, food, the labs, the machine shop and the compute at $0, a company in your name from day 1. 1 written application, no credentials needed. Apply at joinadastra.com", then the sources, then 20 hashtags.
+- Every post carries hashtags (James, 13 October 2026), the most popular ones for reach (James, 16 October 2026), and now designed to reach as many people as possible (James, 18 October 2026): X 5 tags, Instagram 20, following the hashtag rule in PLAYBOOK.md.
 - No caption names the tools: never "Runway", "ElevenLabs" or "generated with" in any post (James, 14 October 2026).
 
 ## Step 7, stage and send for review (by 9:00 am Melbourne)

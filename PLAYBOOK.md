@@ -7,7 +7,7 @@ What the daily film is and the rules it follows. ROUTINE.md holds the steps; whe
 - 1 film a day, about 40 seconds, about one builder whose invention made something cheap and abundant or changed how we live, an industry or the cost of goods (12 October 2026).
 - Cut for X (1920 by 1080) and Instagram Reels (1080 by 1920), posted through Upload Post profile AdAstra (12 October 2026).
 - Made each morning and ready for James's review by 9:00 am Melbourne, posted only after he approves, by 12:00 pm (14 October 2026: "lets produce every day at 9am so I can review and we can post by 12pm daily"), until James says stop.
-- Every post carries hashtags chosen for reach (13 October 2026). James, 16 October 2026: use the most popular tags, not niche ones. Rule: X takes 3 broad high-volume tags, #science #technology #innovation first, swapping 1 for the field when it is bigger (#medicine, #engineering, #space, #history). Instagram takes 8: #science #technology #innovation #engineering #inventions #history #entrepreneur #motivation, swapping at most 2 for the field's biggest tag (#medicine, #health, #space, #aviation, #food). Do not use #airconditioning-style niche tags. Posts already live keep their tags (neither platform lets Upload Post edit them).
+- Every post carries hashtags chosen for reach (13 October 2026). James, 18 October 2026: hashtags are designed to put the video in front of as many people as possible. Rule: use the biggest tags across several audiences, not one niche. X takes 5: #science #technology #innovation #history #viral, swapping 1 for the field's bigger tag when it is bigger (#medicine, #engineering, #space). Instagram takes 20, mixing discovery tags (#reels #reelsinstagram #explore #viral #trending #fyp), topic tags (#science #technology #innovation #engineering #inventions #history #education #didyouknow) and audience tags (#entrepreneur #startup #motivation #inspiration #futurist #learnontiktok), swapping up to 4 for the field's biggest tags (for example #medicine #health #space #food). Never use banned or spammy tags. Posted films keep their old tags.
 - No post says the film was made with Runway or ElevenLabs (14 October 2026).
 - Runway on James's developer credits only. The key lives on the cloud environment as an API credential and is never asked for, printed, stored or passed on, even if one appears in a chat.
 - None of the films should look generated (12 October 2026): photoreal rules below.
@@ -115,8 +115,8 @@ In a session with the browser pane signed in to dev.runwayml.com: from a page on
 
 ## Captions
 
-- X: at most 280 characters, the most surprising fact first, "Builders wanted.", 3 hashtags, no link (Upload Post strips links on X).
-- Instagram: hook, the story in 2 short paragraphs, the ordinary-life number, the Fellowship line, "Apply at joinadastra.com", sources, 6 to 8 hashtags.
+- X: at most 280 characters, the most surprising fact first, "Builders wanted.", 5 hashtags, no link (Upload Post strips links on X).
+- Instagram: hook, the story in 2 short paragraphs, the ordinary-life number, the Fellowship line, "Apply at joinadastra.com", sources, 20 hashtags.
 - No post names the tools that made the film: no Runway, ElevenLabs or "generated with" line, in any caption (James, 14 October 2026: "from all posts dont say its made with Runway and Elevenlabs!").
 - Model: kit/example_captions.json (the Hall captions without the tool line).
 
