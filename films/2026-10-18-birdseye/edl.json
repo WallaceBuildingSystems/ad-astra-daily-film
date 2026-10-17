@@ -1,0 +1,671 @@
+{
+ "duration": 41.75,
+ "shots": [
+  {
+   "src": "src/s01_ice.png",
+   "kind": "image",
+   "t0": 0.0,
+   "t1": 2.725,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "clips/s02_labrador.mp4",
+   "kind": "video",
+   "t0": 2.725,
+   "t1": 4.708,
+   "look": "reel16",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/s03_fishermen.png",
+   "kind": "image",
+   "t0": 4.708,
+   "t1": 9.85,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/s04_catch.png",
+   "kind": "image",
+   "t0": 9.85,
+   "t1": 11.442,
+   "look": "reel16",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "src/s05_pan.png",
+   "kind": "image",
+   "t0": 11.442,
+   "t1": 13.625,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/s06_mush.png",
+   "kind": "image",
+   "t0": 13.625,
+   "t1": 16.458,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/s07_crystals.png",
+   "kind": "image",
+   "t0": 16.458,
+   "t1": 19.392,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "clips/s08_wind.mp4",
+   "kind": "video",
+   "t0": 19.392,
+   "t1": 21.325,
+   "look": "reel16",
+   "src_in": 0.3
+  },
+  {
+   "src": "clips/s09_freezer.mp4",
+   "kind": "video",
+   "t0": 21.325,
+   "t1": 24.667,
+   "look": "reel16",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/s10_ledger.png",
+   "kind": "image",
+   "t0": 24.667,
+   "t1": 26.725,
+   "look": "reel16",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "src/s11_workbench.png",
+   "kind": "image",
+   "t0": 26.725,
+   "t1": 28.017,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/s12_store.png",
+   "kind": "image",
+   "t0": 28.017,
+   "t1": 32.825,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/s13_kitchen.png",
+   "kind": "image",
+   "t0": 32.825,
+   "t1": 35.15,
+   "look": "snap",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "src/s14_peas.png",
+   "kind": "image",
+   "t0": 35.15,
+   "t1": 36.8,
+   "look": "snap",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "clips/s15_aurora.mp4",
+   "kind": "video",
+   "t0": 36.8,
+   "t1": 39.645,
+   "look": "film",
+   "src_in": 0.3
+  }
+ ],
+ "headlines": [
+  {
+   "t0": 0.05,
+   "t1": 2.685,
+   "lines": [
+    [
+     {
+      "w": "Frozen",
+      "t": 0.0
+     },
+     {
+      "w": "food",
+      "t": 0.34
+     },
+     {
+      "w": "began",
+      "t": 0.68
+     }
+    ],
+    [
+     {
+      "w": "with",
+      "t": 1.08
+     },
+     {
+      "w": "a",
+      "t": 1.28
+     },
+     {
+      "w": "fish",
+      "t": 1.44
+     },
+     {
+      "w": "on",
+      "t": 1.64
+     },
+     {
+      "w": "the",
+      "t": 1.84
+     },
+     {
+      "w": "ice.",
+      "t": 1.96
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 2.745,
+   "t1": 4.668,
+   "lines": [
+    [
+     {
+      "w": "Labrador,",
+      "t": 2.78
+     }
+    ],
+    [
+     {
+      "w": "1912.",
+      "t": 3.6
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 4.728,
+   "t1": 9.81,
+   "lines": [
+    [
+     {
+      "w": "Clarence",
+      "t": 4.88
+     },
+     {
+      "w": "Birdseye,",
+      "t": 5.1
+     }
+    ],
+    [
+     {
+      "w": "watched",
+      "t": 6.88
+     },
+     {
+      "w": "Inuit",
+      "t": 7.04
+     },
+     {
+      "w": "fishermen",
+      "t": 7.48
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 9.87,
+   "t1": 11.402,
+   "lines": [
+    [
+     {
+      "w": "It",
+      "t": 9.92
+     },
+     {
+      "w": "froze",
+      "t": 10.06
+     }
+    ],
+    [
+     {
+      "w": "at",
+      "t": 10.36
+     },
+     {
+      "w": "once.",
+      "t": 10.6
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 11.462,
+   "t1": 13.585,
+   "lines": [
+    [
+     {
+      "w": "Cooked",
+      "t": 11.56
+     },
+     {
+      "w": "later,",
+      "t": 11.82
+     }
+    ],
+    [
+     {
+      "w": "it",
+      "t": 12.34
+     },
+     {
+      "w": "tasted",
+      "t": 12.44
+     },
+     {
+      "w": "fresh.",
+      "t": 12.66
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 13.645,
+   "t1": 16.418,
+   "lines": [
+    [
+     {
+      "w": "Shop",
+      "t": 14.48
+     },
+     {
+      "w": "frozen",
+      "t": 13.84
+     },
+     {
+      "w": "food",
+      "t": 14.02
+     }
+    ],
+    [
+     {
+      "w": "tasted",
+      "t": 14.86
+     },
+     {
+      "w": "like",
+      "t": 15.32
+     },
+     {
+      "w": "mush.",
+      "t": 15.62
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 16.478,
+   "t1": 19.352,
+   "lines": [
+    [
+     {
+      "w": "Slow",
+      "t": 16.94
+     },
+     {
+      "w": "freezing",
+      "t": 16.66
+     }
+    ],
+    [
+     {
+      "w": "large",
+      "t": 17.84
+     },
+     {
+      "w": "ice",
+      "t": 18.14
+     },
+     {
+      "w": "crystals.",
+      "t": 18.46
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 19.412,
+   "t1": 21.285,
+   "lines": [
+    [
+     {
+      "w": "Birdseye",
+      "t": 19.64
+     },
+     {
+      "w": "copied",
+      "t": 20.06
+     }
+    ],
+    [
+     {
+      "w": "the",
+      "t": 20.4
+     },
+     {
+      "w": "cold.",
+      "t": 20.58
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 21.345,
+   "t1": 24.627,
+   "lines": [
+    [
+     {
+      "w": "A",
+      "t": 21.7
+     },
+     {
+      "w": "freezer",
+      "t": 21.9
+     }
+    ],
+    [
+     {
+      "w": "chilled",
+      "t": 23.44
+     },
+     {
+      "w": "belts.",
+      "t": 23.78
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 24.687,
+   "t1": 26.685,
+   "lines": [
+    [
+     {
+      "w": "Out",
+      "t": 25.76
+     },
+     {
+      "w": "of",
+      "t": 25.92
+     },
+     {
+      "w": "money.",
+      "t": 26.04
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 26.745,
+   "t1": 27.977,
+   "lines": [
+    [
+     {
+      "w": "He",
+      "t": 26.8
+     },
+     {
+      "w": "kept",
+      "t": 26.98
+     }
+    ],
+    [
+     {
+      "w": "going.",
+      "t": 27.2
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 28.037,
+   "t1": 32.785,
+   "lines": [
+    [
+     {
+      "w": "1930,",
+      "t": 27.64
+     },
+     {
+      "w": "Springfield",
+      "t": 29.46
+     }
+    ],
+    [
+     {
+      "w": "frozen",
+      "t": 30.7
+     },
+     {
+      "w": "food",
+      "t": 31.0
+     },
+     {
+      "w": "in",
+      "t": 31.74
+     },
+     {
+      "w": "shops.",
+      "t": 31.94
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 32.845,
+   "t1": 36.76,
+   "lines": [
+    [
+     {
+      "w": "Refrigerators:",
+      "t": 33.12
+     }
+    ],
+    [
+     {
+      "w": "under",
+      "t": 34.34
+     },
+     {
+      "w": "10",
+      "t": 34.62
+     },
+     {
+      "w": "percent",
+      "t": 34.8
+     },
+     {
+      "w": "to",
+      "t": 35.2
+     },
+     {
+      "w": "over",
+      "t": 35.56
+     },
+     {
+      "w": "50.",
+      "t": 35.94
+     }
+    ]
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "t0": 2.825,
+   "t1": 4.668,
+   "text": "Labrador, 1912. Source: History.com"
+  },
+  {
+   "t0": 4.808,
+   "t1": 9.81,
+   "text": "Inuit ice fishing, catch frozen at once. Source: History.com"
+  },
+  {
+   "t0": 16.558,
+   "t1": 19.352,
+   "text": "Slow freezing forms large ice crystals. Source: History.com"
+  },
+  {
+   "t0": 21.425,
+   "t1": 24.627,
+   "text": "United States Patent 1,773,079, method of preparing food products. Source: Wikipedia"
+  },
+  {
+   "t0": 28.117,
+   "t1": 32.785,
+   "text": "First retail frozen foods, Springfield, 1930. Source: National Inventors Hall of Fame"
+  },
+  {
+   "t0": 32.925,
+   "t1": 36.76,
+   "text": "Home refrigerators, under 10 to over 50 percent. Source: History.com"
+  }
+ ],
+ "counters": [],
+ "lists": [],
+ "subtitles": [
+  {
+   "t0": 0.0,
+   "t1": 2.553,
+   "text": "Frozen food began with a fish on the ice."
+  },
+  {
+   "t0": 2.725,
+   "t1": 4.495,
+   "text": "Labrador, 1912."
+  },
+  {
+   "t0": 4.708,
+   "t1": 9.595,
+   "text": "Clarence Birdseye, a fur trader, watched Inuit fishermen leave their catch on the ice."
+  },
+  {
+   "t0": 9.85,
+   "t1": 11.27,
+   "text": "It froze at once."
+  },
+  {
+   "t0": 11.442,
+   "t1": 13.412,
+   "text": "Cooked later, it tasted fresh."
+  },
+  {
+   "t0": 13.625,
+   "t1": 16.287,
+   "text": "Frozen food in shops tasted like mush."
+  },
+  {
+   "t0": 16.458,
+   "t1": 19.22,
+   "text": "It froze slowly, in large ice crystals."
+  },
+  {
+   "t0": 19.392,
+   "t1": 21.112,
+   "text": "Birdseye copied the cold."
+  },
+  {
+   "t0": 21.325,
+   "t1": 24.495,
+   "text": "He built a freezer that pressed food between chilled belts."
+  },
+  {
+   "t0": 24.667,
+   "t1": 26.512,
+   "text": "His first company ran out of money."
+  },
+  {
+   "t0": 26.725,
+   "t1": 27.845,
+   "text": "He kept going."
+  },
+  {
+   "t0": 28.017,
+   "t1": 32.57,
+   "text": "1930, Springfield, Massachusetts, his frozen food reached the shops."
+  },
+  {
+   "t0": 32.825,
+   "t1": 36.628,
+   "text": "Home refrigerators rose from under 10 percent to over 50."
+  }
+ ],
+ "glitches": [
+  26.725,
+  36.8
+ ],
+ "end": {
+  "t0": 36.8,
+  "words": [
+   {
+    "w": "Ad",
+    "t": 36.92
+   },
+   {
+    "w": "Astra.",
+    "t": 37.12
+   }
+  ],
+  "slogan": [
+   {
+    "w": "Fucking",
+    "t": 38.16
+   },
+   {
+    "w": "accelerate.",
+    "t": 38.56
+   }
+  ],
+  "card_t": 39.645,
+  "emblem": "kit/emblem.jpg",
+  "url_line": "Apply at joinadastra.com"
+ }
+}
