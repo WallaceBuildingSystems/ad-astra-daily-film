@@ -1,6 +1,6 @@
 # Harold Ridley, The Lens From a Fighter Plane (17 October 2026)
 
-Status: made in James's session, 39.9 seconds, 16:9 for X and 9:16 for Instagram Reels. Posting details are in LOG.md.
+Status: posted 17 October 2026 on James's "Post now". X https://x.com/joinadastra/status/2111341010693292336. Instagram Reel: see LOG.md.
 
 Script (95 words): The first lens implant came from a fighter plane. 1940, Battle of Britain. Pilots came in with splinters in their eyes. The plastic did no harm. Cataract surgery left patients in thick glasses. A student asked, why not put one back? Harold Ridley, eye surgeon, aged 43. He had a lens cut from the same plastic. 29 November 1949, St Thomas' Hospital, London. The first lens was too thick. He thinned it. His peers called it reckless. Today, 6 to 10 million cataract operations a year. The idea is still his. Ad Astra. Fucking accelerate.
 
