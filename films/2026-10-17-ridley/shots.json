@@ -1,0 +1,115 @@
+{
+ "style_past": " 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+ "shots": [
+  {
+   "id": "s01_canopy",
+   "look": "reel16",
+   "video": false,
+   "still": "A scratched clear plastic fighter aircraft canopy lying on a wooden trestle in a 1940 airfield hangar, grey daylight through the hangar doors, dust in the air, oily concrete floor, the canopy in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s02_airfield",
+   "look": "reel16",
+   "video": true,
+   "still": "A grass airfield in southern England in the summer of 1940, a single propeller fighter aircraft far away at the edge of the field, sandbags and a canvas tent in the foreground, big cloud sky, overcast light, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Clouds drift slowly and the grass moves in the wind. Locked-off camera."
+  },
+  {
+   "id": "s03_ward",
+   "look": "reel16",
+   "video": false,
+   "still": "A long 1940 hospital ward with iron-framed beds in rows, a man in a bed seen from behind with a bandage around his head, tall windows, pale morning light, rumpled white linen, no faces in focus. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s04_splinters",
+   "look": "reel16",
+   "video": false,
+   "still": "Tiny clear plastic splinters on a steel kidney dish on a wooden table beside surgical forceps, soft window light, shallow depth of field, close view, the dish in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s05_glasses",
+   "look": "reel16",
+   "video": false,
+   "still": "A pair of very thick round-lensed spectacles on a wooden table beside a folded woollen cardigan, window light from the left, dust, shallow depth of field, 1940s, the spectacles in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s06_theatre",
+   "look": "reel16",
+   "video": false,
+   "still": "An empty tiered teaching operating theatre in a 1947 London hospital, curved wooden rails, rows of empty benches, a single operating table in the middle lit by a high skylight, dust in the light, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s07_surgeon",
+   "look": "reel16",
+   "video": false,
+   "still": "A man in a white coat seen from behind standing at a tall window in a 1949 hospital office, a desk with papers and a desk lamp, grey London daylight, rooftops outside, out of focus beyond the window. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s08_workshop",
+   "look": "reel16",
+   "video": true,
+   "still": "A small optical workshop in 1949 with a lathe and a workbench, a few small clear plastic discs on a cloth, shavings of clear plastic, window light with dust drifting, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Dust drifts slowly through the window light. Locked-off camera."
+  },
+  {
+   "id": "s09_hospital",
+   "look": "reel16",
+   "video": true,
+   "still": "A large Victorian brick and stone hospital building beside a wide river in London at dusk in 1949, lit windows, light mist on the water, a few lamps along the embankment, seen from across the river, no people in focus. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Mist drifts across the river and the water ripples gently. Locked-off camera."
+  },
+  {
+   "id": "s10_lenses",
+   "look": "reel16",
+   "video": false,
+   "still": "Two clear plastic discs, one thick and one thin, on a dark cloth on a wooden bench, window light, shallow depth of field, 1950, the discs in the middle third. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s11_room",
+   "look": "reel16",
+   "video": false,
+   "still": "A dim committee room in 1951 with a long polished table and rows of empty wooden chairs, a green-shaded lamp, tall curtained windows, dust in the air, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s12_waiting",
+   "look": "snap",
+   "video": false,
+   "still": "A waiting room in an eye clinic in the afternoon, rows of chairs and a few people seen from behind far away, a window with blinds. Casual phone snapshot, slightly tilted, uneven exposure, a little noise, nothing posed, clean image with no scribbles, no marks, no overlays, no border, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s13_reading",
+   "look": "snap",
+   "video": false,
+   "still": "An older woman seen from behind sitting in an armchair by a sunny window holding an open book. Casual phone snapshot, slightly tilted, uneven exposure, a little noise, nothing posed, clean image with no scribbles, no marks, no overlays, no border, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "s14_garden",
+   "look": "snap",
+   "video": true,
+   "still": "A view from inside a house through a window to a sunny garden with a tree, a coffee mug on the sill. Casual phone snapshot, slightly tilted, uneven exposure, a little noise, nothing posed, clean image with no scribbles, no marks, no overlays, no border, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "Leaves move gently in the breeze. Locked-off camera."
+  },
+  {
+   "id": "s15_stars",
+   "look": "film",
+   "video": true,
+   "still": "A clear night sky full of stars over a dark ridge line, the Milky Way faint, cold air, a little film grain, 35mm night sky photograph on long exposure, no people, no text. ",
+   "seconds": 5,
+   "motion": "Stars drift very slowly across the sky. Locked-off camera."
+  }
+ ]
+}
