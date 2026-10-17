@@ -1,0 +1,705 @@
+{
+ "duration": 39.9,
+ "shots": [
+  {
+   "src": "src/s01_canopy.png",
+   "kind": "image",
+   "t0": 0.0,
+   "t1": 2.767,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "clips/s02_airfield.mp4",
+   "kind": "video",
+   "t0": 2.767,
+   "t1": 4.992,
+   "look": "reel16",
+   "src_in": 0.3,
+   "speed": 0.6
+  },
+  {
+   "src": "src/s03_ward.png",
+   "kind": "image",
+   "t0": 4.992,
+   "t1": 7.567,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/s04_splinters.png",
+   "kind": "image",
+   "t0": 7.567,
+   "t1": 9.192,
+   "look": "reel16",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "src/s05_glasses.png",
+   "kind": "image",
+   "t0": 9.192,
+   "t1": 12.242,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/s06_theatre.png",
+   "kind": "image",
+   "t0": 12.242,
+   "t1": 14.683,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/s07_surgeon.png",
+   "kind": "image",
+   "t0": 14.683,
+   "t1": 17.667,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "clips/s08_workshop.mp4",
+   "kind": "video",
+   "t0": 17.667,
+   "t1": 20.125,
+   "look": "reel16",
+   "src_in": 0.5
+  },
+  {
+   "src": "src/s09_hospital.png",
+   "kind": "image",
+   "t0": 20.125,
+   "t1": 24.042,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/s10_lenses.png",
+   "kind": "image",
+   "t0": 24.042,
+   "t1": 27.317,
+   "look": "reel16",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "src/s11_room.png",
+   "kind": "image",
+   "t0": 27.317,
+   "t1": 29.267,
+   "look": "reel16",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/s12_waiting.png",
+   "kind": "image",
+   "t0": 29.267,
+   "t1": 30.867,
+   "look": "snap",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "clips/s14_garden.mp4",
+   "kind": "video",
+   "t0": 30.867,
+   "t1": 33.025,
+   "look": "snap",
+   "src_in": 0.5
+  },
+  {
+   "src": "src/s13_reading.png",
+   "kind": "image",
+   "t0": 33.025,
+   "t1": 34.867,
+   "look": "snap",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "clips/s15_stars.mp4",
+   "kind": "video",
+   "t0": 34.867,
+   "t1": 37.803,
+   "look": "film",
+   "src_in": 0.3
+  }
+ ],
+ "headlines": [
+  {
+   "t0": 0.05,
+   "t1": 2.727,
+   "lines": [
+    [
+     {
+      "w": "The",
+      "t": 0.0
+     },
+     {
+      "w": "first",
+      "t": 0.16
+     },
+     {
+      "w": "lens",
+      "t": 0.4
+     }
+    ],
+    [
+     {
+      "w": "came",
+      "t": 1.1
+     },
+     {
+      "w": "from",
+      "t": 1.42
+     },
+     {
+      "w": "a",
+      "t": 1.62
+     },
+     {
+      "w": "fighter",
+      "t": 1.74
+     },
+     {
+      "w": "plane.",
+      "t": 1.98
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 2.787,
+   "t1": 4.952,
+   "lines": [
+    [
+     {
+      "w": "1940,",
+      "t": 3.44
+     }
+    ],
+    [
+     {
+      "w": "Battle",
+      "t": 3.94
+     },
+     {
+      "w": "of",
+      "t": 4.08
+     },
+     {
+      "w": "Britain.",
+      "t": 4.26
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 5.012,
+   "t1": 7.527,
+   "lines": [
+    [
+     {
+      "w": "Pilots",
+      "t": 5.22
+     },
+     {
+      "w": "came",
+      "t": 5.44
+     },
+     {
+      "w": "in",
+      "t": 5.6
+     }
+    ],
+    [
+     {
+      "w": "with",
+      "t": 5.78
+     },
+     {
+      "w": "splinters.",
+      "t": 5.96
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 7.587,
+   "t1": 9.152,
+   "lines": [
+    [
+     {
+      "w": "The",
+      "t": 7.64
+     },
+     {
+      "w": "plastic",
+      "t": 7.74
+     }
+    ],
+    [
+     {
+      "w": "did",
+      "t": 8.1
+     },
+     {
+      "w": "no",
+      "t": 8.28
+     },
+     {
+      "w": "harm.",
+      "t": 8.48
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 9.212,
+   "t1": 12.202,
+   "lines": [
+    [
+     {
+      "w": "Cataract",
+      "t": 9.4
+     },
+     {
+      "w": "surgery",
+      "t": 9.66
+     }
+    ],
+    [
+     {
+      "w": "thick",
+      "t": 10.92
+     },
+     {
+      "w": "glasses.",
+      "t": 11.18
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 12.262,
+   "t1": 14.643,
+   "lines": [
+    [
+     {
+      "w": "A",
+      "t": 12.3
+     },
+     {
+      "w": "student",
+      "t": 12.44
+     },
+     {
+      "w": "asked,",
+      "t": 12.64
+     }
+    ],
+    [
+     {
+      "w": "put",
+      "t": 13.66
+     },
+     {
+      "w": "one",
+      "t": 13.8
+     },
+     {
+      "w": "back?",
+      "t": 13.98
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 14.703,
+   "t1": 17.627,
+   "lines": [
+    [
+     {
+      "w": "Harold",
+      "t": 14.84
+     },
+     {
+      "w": "Ridley,",
+      "t": 15.08
+     }
+    ],
+    [
+     {
+      "w": "aged",
+      "t": 16.56
+     },
+     {
+      "w": "43.",
+      "t": 16.68
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 17.687,
+   "t1": 20.085,
+   "lines": [
+    [
+     {
+      "w": "A",
+      "t": 18.02
+     },
+     {
+      "w": "lens",
+      "t": 18.16
+     },
+     {
+      "w": "cut",
+      "t": 18.36
+     }
+    ],
+    [
+     {
+      "w": "from",
+      "t": 18.58
+     },
+     {
+      "w": "the",
+      "t": 18.78
+     },
+     {
+      "w": "same",
+      "t": 18.9
+     },
+     {
+      "w": "plastic.",
+      "t": 19.12
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 20.145,
+   "t1": 24.002,
+   "lines": [
+    [
+     {
+      "w": "November",
+      "t": 20.28
+     },
+     {
+      "w": "29,",
+      "t": 20.46
+     },
+     {
+      "w": "1949.",
+      "t": 21.24
+     }
+    ],
+    [
+     {
+      "w": "St",
+      "t": 22.52
+     },
+     {
+      "w": "Thomas'",
+      "t": 22.58
+     },
+     {
+      "w": "Hospital.",
+      "t": 23.02
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 24.062,
+   "t1": 27.277,
+   "lines": [
+    [
+     {
+      "w": "Too",
+      "t": 25.44
+     },
+     {
+      "w": "thick.",
+      "t": 25.66
+     }
+    ],
+    [
+     {
+      "w": "He",
+      "t": 26.4
+     },
+     {
+      "w": "thinned",
+      "t": 26.54
+     },
+     {
+      "w": "it.",
+      "t": 26.88
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 27.337,
+   "t1": 29.227,
+   "lines": [
+    [
+     {
+      "w": "His",
+      "t": 27.06
+     },
+     {
+      "w": "peers",
+      "t": 27.54
+     }
+    ],
+    [
+     {
+      "w": "called",
+      "t": 27.84
+     },
+     {
+      "w": "it",
+      "t": 28.16
+     },
+     {
+      "w": "reckless.",
+      "t": 28.3
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 29.287,
+   "t1": 32.985,
+   "lines": [
+    [
+     {
+      "w": "6",
+      "t": 30.08
+     },
+     {
+      "w": "to",
+      "t": 30.16
+     },
+     {
+      "w": "10",
+      "t": 30.38
+     },
+     {
+      "w": "million",
+      "t": 30.66
+     }
+    ],
+    [
+     {
+      "w": "cataract",
+      "t": 31.1
+     },
+     {
+      "w": "operations",
+      "t": 31.62
+     },
+     {
+      "w": "a",
+      "t": 32.06
+     },
+     {
+      "w": "year.",
+      "t": 32.3
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 33.045,
+   "t1": 34.827,
+   "lines": [
+    [
+     {
+      "w": "The",
+      "t": 33.1
+     },
+     {
+      "w": "idea",
+      "t": 33.22
+     }
+    ],
+    [
+     {
+      "w": "is",
+      "t": 33.52
+     },
+     {
+      "w": "still",
+      "t": 33.86
+     },
+     {
+      "w": "his.",
+      "t": 34.12
+     }
+    ]
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "t0": 2.867,
+   "t1": 4.952,
+   "text": "Battle of Britain, 1940. Source: Ridley Eye Foundation"
+  },
+  {
+   "t0": 14.783,
+   "t1": 17.627,
+   "text": "Born 10 July 1906, aged 43 in 1949. Source: Royal College of Surgeons"
+  },
+  {
+   "t0": 20.225,
+   "t1": 24.002,
+   "text": "First operation 29 November 1949. Source: Royal College of Surgeons"
+  },
+  {
+   "t0": 24.142,
+   "t1": 27.277,
+   "text": "First lens too thick, later recalculated. Source: Rayner, David J. Apple"
+  },
+  {
+   "t0": 29.367,
+   "t1": 32.985,
+   "text": "Cataract operations a year, worldwide. Source: PubMed Central review"
+  }
+ ],
+ "counters": [],
+ "lists": [],
+ "subtitles": [
+  {
+   "t0": 0.0,
+   "t1": 2.595,
+   "text": "The first lens implant came from a fighter plane."
+  },
+  {
+   "t0": 2.767,
+   "t1": 4.778,
+   "text": "1940, Battle of Britain."
+  },
+  {
+   "t0": 4.992,
+   "t1": 7.353,
+   "text": "Pilots came in with splinters in their eyes."
+  },
+  {
+   "t0": 7.567,
+   "t1": 9.02,
+   "text": "The plastic did no harm."
+  },
+  {
+   "t0": 9.192,
+   "t1": 12.028,
+   "text": "Cataract surgery left patients in thick glasses."
+  },
+  {
+   "t0": 12.242,
+   "t1": 14.512,
+   "text": "A student asked, why not put one back?"
+  },
+  {
+   "t0": 14.683,
+   "t1": 17.537,
+   "text": "Harold Ridley, eye surgeon, aged 43."
+  },
+  {
+   "t0": 17.667,
+   "t1": 19.87,
+   "text": "He had a lens cut from the same plastic."
+  },
+  {
+   "t0": 20.125,
+   "t1": 23.912,
+   "text": "November 29, 1949, St Thomas' Hospital, London."
+  },
+  {
+   "t0": 24.042,
+   "t1": 27.187,
+   "text": "The first lens was too thick. He thinned it."
+  },
+  {
+   "t0": 27.317,
+   "t1": 29.095,
+   "text": "His peers called it reckless."
+  },
+  {
+   "t0": 29.267,
+   "t1": 32.77,
+   "text": "Today, 6 to 10 million cataract operations a year."
+  },
+  {
+   "t0": 33.025,
+   "t1": 34.737,
+   "text": "The idea is still his."
+  }
+ ],
+ "glitches": [
+  29.267,
+  34.867
+ ],
+ "end": {
+  "t0": 34.867,
+  "words": [
+   {
+    "w": "Ad",
+    "t": 35.08
+   },
+   {
+    "w": "Astra.",
+    "t": 35.16
+   }
+  ],
+  "slogan": [
+   {
+    "w": "Fucking",
+    "t": 36.36
+   },
+   {
+    "w": "accelerate.",
+    "t": 36.76
+   }
+  ],
+  "card_t": 37.803,
+  "emblem": "kit/emblem.jpg",
+  "url_line": "Apply at joinadastra.com"
+ }
+}

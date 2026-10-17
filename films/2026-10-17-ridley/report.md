@@ -1,10 +1,11 @@
-# 2026-10-17 film: Harold Ridley, the intraocular lens (in progress in James's session, not posted)
+# Harold Ridley, The Lens From a Fighter Plane (17 October 2026)
 
-The 6:47 am routine run failed (source websites unreachable under Trusted network access). Resumed in James's session at 2:42 pm Melbourne after "Figure it out".
+Status: made in James's session, 39.9 seconds, 16:9 for X and 9:16 for Instagram Reels. Posting details are in LOG.md.
 
-Done: research with sources opened (research.md, first implant date settled: 29 November 1949 first operation at St Thomas' Hospital; a lens left permanently on 8 February 1950, so the film claims only the November date for the operation), script (95 words, 15 phrases), gaps.json, shots.json (15 shots: 10 reel16 stills and clips, 3 snap, 1 film stars).
-Voice: Wallace Jax Meridian, take 3 of 4 (43.84 seconds, transcript matches), saved at work/ridley/take3.mp3 and take3.wav in the session container.
+Script (95 words): The first lens implant came from a fighter plane. 1940, Battle of Britain. Pilots came in with splinters in their eyes. The plastic did no harm. Cataract surgery left patients in thick glasses. A student asked, why not put one back? Harold Ridley, eye surgeon, aged 43. He had a lens cut from the same plastic. 29 November 1949, St Thomas' Hospital, London. The first lens was too thick. He thinned it. His peers called it reckless. Today, 6 to 10 million cataract operations a year. The idea is still his. Ad Astra. Fucking accelerate.
 
-Blocked: the browser pane on James's computer disconnected while the 15 stills were being submitted to Runway's developer site (a 60 second timeout, then "device not connected"). Some or all of the 15 still tasks may already have run (up to 300 developer credits); do not resubmit before checking the Runway developer site's task history. Next: reconnect the computer, list the tasks on the developer site, download the stills, make the 5 clips (airfield, workshop, hospital, garden, stars), edit, render, stage and send for review.
+Claims and sources: research.md. The film claims only the 29 November 1949 date for the first operation. The 6 to 10 million figure is from a PubMed Central review.
 
-Nothing posted, staged or scheduled.
+Credits: 15 stills (300), 1 redone still (20), 4 clips (240), about 560 in all, under the 950 cap.
+
+Picture notes: s09 redone (first try had a white border and a doubled building), s10 cropped to remove a film-edge border. s09 is a still, no clip.
