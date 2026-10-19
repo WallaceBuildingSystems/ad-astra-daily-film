@@ -1,7 +1,7 @@
-# 2026-10-20 Nils Bohlin: FAILED, no film made
+# Nils Bohlin, The Seat Belt That Saves Lives Began With an Ejection Seat Engineer (20 October 2026)
 
-Routine run, 6:48 am Melbourne (+11:00). Runway works (83,944 credits). Upload Post profile AdAstra has x and instagram connected, no reconnect needed.
+Made in James's session after the 6:47 am routine failed (Trusted network access, sources unreachable). Posted on his "Post now". X https://x.com/joinadastra/status/2112298628005998626. Instagram Reel request fd37c9161be44162bc7ab09c722c5a38.
 
-Failed at step 1 (research): no primary or institutional source can be opened. WebFetch answers ENOTFOUND (en.wikipedia.org, www.hagley.org) and the egress proxy refuses CONNECT (403) to www.nasa.gov and www.volvocars.com. WebSearch returns only snippets from secondary sites, which the sourcing rule does not accept. Bohlin's key dates also differ between sources (Swedish filing 29 August 1958, United States filing 17 August 1959, United States patent 10 July 1962, first sale 13 August 1959), so they need a primary source to settle.
+49 seconds, 16:9 for X and 9:16 for Reels, loudness minus 14 LUFS. Script and sources: script.txt, research.md. Facts avoided because sources disagree: patent filing dates, the first car, the 1 million lives claim. The 15,000 lives a year figure is the National Highway Traffic Safety Administration number as cited by Wikipedia (agency page not opened).
 
-Nothing posted, staged or scheduled. No credits spent. Next in queue: Nils Bohlin.
+Credits: 15 stills (none redone), 5 clips, about 560 Runway. Voice: 4 takes, the shortest used.
