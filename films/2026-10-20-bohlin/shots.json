@@ -1,0 +1,110 @@
+{
+ "style_past": " 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+ "shots": [
+  {
+   "id": "b01_seat",
+   "look": "reel16",
+   "video": false,
+   "still": "A 1950s jet fighter ejection seat resting on a workshop bench beside the aircraft cockpit, straps hanging, hangar light, a technician seen from behind, face not visible. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b02_street",
+   "look": "reel16",
+   "video": true,
+   "still": "A snowy Swedish town street in 1958 on a grey winter morning, a 1950s Volvo car parked at the kerb with frost on the roof, wooden houses, smoke from chimneys, no people in focus. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b03_saab",
+   "look": "reel16",
+   "video": false,
+   "still": "A 1950s Swedish aircraft factory workshop, an engineer in a work coat seen from behind examining a seat harness on a bench, aircraft parts and tools, dusty window light, face not visible. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b04_office",
+   "look": "reel16",
+   "video": false,
+   "still": "A 1958 car company design office, a man in a shirt and tie seen from behind at a large drawing board with sketches, a window onto a factory yard, desk lamp, face not visible. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b05_lap",
+   "look": "reel16",
+   "video": false,
+   "still": "The interior of a 1950s car seen from the passenger side, a plain lap belt lying across the bench seat, hard metal dashboard and large steering wheel close in front, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b06_unused",
+   "look": "reel16",
+   "video": false,
+   "still": "A 1950s car interior with an unused belt buckle and strap dangling on the seat edge, dusty tan upholstery, morning light through the window, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b07_board",
+   "look": "reel16",
+   "video": false,
+   "still": "A drawing board in 1958 with pencil sketches of belt strap geometry across a figure outline, a wooden mannequin torso, a leather strap and a metal buckle on the desk, a lamp, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b08_buckle",
+   "look": "reel16",
+   "video": true,
+   "still": "A hand pulling a diagonal safety belt across the chest of a seated person and clicking the buckle into the seat side in a 1960s car interior, person seen from the side, face not visible. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b09_pv544",
+   "look": "reel16",
+   "video": true,
+   "still": "A new 1959 Volvo PV544 driving along a country road in Sweden in summer, pine forest, soft afternoon light, shot from beside the road. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b10_table",
+   "look": "reel16",
+   "video": false,
+   "still": "A long wooden table in a 1960s conference room with technical drawings of a safety belt, a belt sample, coffee cups, men's hands pointing at the drawings, face not visible. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b11_office",
+   "look": "reel16",
+   "video": false,
+   "still": "The interior of a 1980s German government patent office in Munich, rows of grey filing cabinets and a clerk's desk with stacked patent files, daylight through tall windows, no people in focus. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b12_click",
+   "look": "snap",
+   "video": false,
+   "still": "A driver's hand pulling a seat belt across in a modern car, daylight, dashboard visible. Casual phone snapshot, nothing posed, clean image with no scribbles, no marks, no overlays, no border, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b13_rear",
+   "look": "snap",
+   "video": false,
+   "still": "The rear seat of a modern family car, a child's hand holding the shoulder belt as it crosses the seat, daylight, back seat. Casual phone snapshot, nothing posed, clean image with no scribbles, no marks, no overlays, no border, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b14_road",
+   "look": "snap",
+   "video": true,
+   "still": "A modern highway seen through a car windscreen with a belt visible across the driver, daylight, ordinary traffic. Casual phone snapshot, nothing posed, clean image with no scribbles, no marks, no overlays, no border, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "b15_stars",
+   "look": "film",
+   "video": true,
+   "still": "A dark night sky full of stars over a still lake with a faint green glow on the horizon, no people, no text.",
+   "seconds": 5
+  }
+ ]
+}
