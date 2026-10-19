@@ -1,7 +1,7 @@
-# 2026-10-19, Kary Mullis: FAILED, no film made
+# Kary Mullis, Copying DNA Began on a Night Drive (19 October 2026)
 
-Run at 6:47 am Melbourne (+1100). Runway works (86,682 credits). Upload Post AdAstra has x and instagram connected, no reconnect needed.
+Made in James's session after the 6:47 am routine failed (Trusted network access, sources unreachable). Posted on his "Post now". X https://x.com/joinadastra/status/2112019237875142744. Instagram Reel request 9a1a97b2ba934cd9bb71fc2a03877281.
 
-What failed: no primary or institutional source can be opened. WebFetch returns ENOTFOUND (nobelprize.org, en.wikipedia.org) and curl to nobelprize.org, sciencehistory.org, ncbi.nlm.nih.gov and patents.google.com returns no connection (code 000). Under the sourcing rule, Kary Mullis cannot be researched, so no film was made.
+46.5 seconds, 16:9 for X and 9:16 for Reels, loudness minus 14 LUFS. Script and sources: script.txt, research.md. Facts avoided because sources disagree: the road of the night drive, the year Taq polymerase was adopted and first isolated (1966 or 1976), the Roche price.
 
-Nothing posted, staged or scheduled. No Runway credits spent. Next in queue: Kary Mullis.
+Credits: 15 stills (none redone), 5 clips, about 560 Runway. Voice: 4 takes, the shortest used.

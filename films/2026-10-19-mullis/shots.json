@@ -1,0 +1,110 @@
+{
+ "style_past": " 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+ "shots": [
+  {
+   "id": "m01_drive",
+   "look": "reel16",
+   "video": false,
+   "still": "View through the windscreen of a 1980s car driving a winding coastal road at night in California, headlight beams on wet tarmac, dark pines on one side, a faint glow of sea on the other, dashboard dimly lit, no people visible. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m02_coast",
+   "look": "reel16",
+   "video": true,
+   "still": "A 1983 coastal highway in California at night seen from a bend, a single car with red tail lights disappearing along the cliff road above a dark ocean, moonlight on the water, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m03_lab",
+   "look": "reel16",
+   "video": false,
+   "still": "A 1983 molecular biology laboratory at night with one bench lamp lit, a scientist in a white coat seen from behind, glassware racks, small plastic tubes and a notepad, cluttered and real, face not visible. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m04_heat",
+   "look": "reel16",
+   "video": false,
+   "still": "A 1980s laboratory water bath with steam rising, small plastic tubes in a floating rack, a glass thermometer clipped to the side, warm bench lamp light, close view, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m05_cool",
+   "look": "reel16",
+   "video": false,
+   "still": "A rack of small plastic microcentrifuge tubes on crushed ice in a steel tray, frost beading on the tubes, 1980s laboratory bench, close view, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m06_enzyme",
+   "look": "reel16",
+   "video": false,
+   "still": "A gloved hand holding a pipette over a tiny plastic tube, 1980s laboratory bench, shallow depth of field, clear liquid, a rack of tubes behind, face not visible. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m07_double",
+   "look": "reel16",
+   "video": false,
+   "still": "Many rows of small plastic tubes filling several wooden and plastic racks across a long laboratory bench, a 1980s lab, receding perspective, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m08_gel",
+   "look": "reel16",
+   "video": false,
+   "still": "A gel electrophoresis gel glowing under ultraviolet light in a dark laboratory, parallel lanes with bright orange-pink bands, a scientist's gloved hand at the edge, shallow depth of field. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m09_baths",
+   "look": "reel16",
+   "video": false,
+   "still": "Gloved hands moving a rack of small tubes from one steaming water bath to another, three water baths side by side on a 1980s laboratory bench, repetitive manual work, steam, hands only. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m10_spring",
+   "look": "reel16",
+   "video": false,
+   "still": "A steaming turquoise and orange hot spring in a volcanic landscape at dawn, mineral-coloured bacterial mats at the edge of the pool, vapour drifting, wooden boardwalk, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m11_journal",
+   "look": "reel16",
+   "video": false,
+   "still": "A 1985 laboratory office desk with a stack of printed scientific journal pages, a coffee mug, a desk lamp and a typewriter, evening light, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m12_stockholm",
+   "look": "reel16",
+   "video": false,
+   "still": "Stockholm in December 1993, dusk, snow on rooftops along the waterfront, lit windows, a grand stone building reflecting in dark water, no people in focus. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m13_swab",
+   "look": "snap",
+   "video": false,
+   "still": "A clinic bench with a gloved hand holding a swab tube and a small rack of sample tubes, bright modern room. Casual phone snapshot, nothing posed, clean image with no scribbles, no marks, no overlays, no border, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m14_forensic",
+   "look": "snap",
+   "video": true,
+   "still": "A modern forensic laboratory, a technician in gloves and mask loading small sample tubes into a compact benchtop machine with a lit display, evidence bags on the side. Casual phone snapshot, nothing posed, clean image with no scribbles, no marks, no overlays, no border, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "m15_stars",
+   "look": "film",
+   "video": true,
+   "still": "A dark night sky full of stars over a still lake with a faint green glow on the horizon, no people, no text.",
+   "seconds": 5
+  }
+ ]
+}
