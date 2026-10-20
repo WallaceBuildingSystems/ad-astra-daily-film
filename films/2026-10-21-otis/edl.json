@@ -1,0 +1,673 @@
+{
+ "duration": 52.14,
+ "shots": [
+  {
+   "src": "src/o01_rope.png",
+   "kind": "image",
+   "t0": 0.0,
+   "t1": 3.258,
+   "look": "archival",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "clips/o02_street.mp4",
+   "kind": "video",
+   "t0": 3.258,
+   "t1": 5.542,
+   "look": "archival",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/o03_stairs.png",
+   "kind": "image",
+   "t0": 5.542,
+   "t1": 9.633,
+   "look": "archival",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/o04_hoist.png",
+   "kind": "image",
+   "t0": 9.633,
+   "t1": 12.867,
+   "look": "archival",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "clips/o05_factory.mp4",
+   "kind": "video",
+   "t0": 12.867,
+   "t1": 17.8,
+   "look": "archival",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/o06_palace.png",
+   "kind": "image",
+   "t0": 17.8,
+   "t1": 20.75,
+   "look": "archival",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/o07_axe.png",
+   "kind": "image",
+   "t0": 20.75,
+   "t1": 23.092,
+   "look": "archival",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/o08_platform.png",
+   "kind": "image",
+   "t0": 23.092,
+   "t1": 25.575,
+   "look": "archival",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "src/o09_crowd.png",
+   "kind": "image",
+   "t0": 25.575,
+   "t1": 27.967,
+   "look": "archival",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/o10_ledger.png",
+   "kind": "image",
+   "t0": 27.967,
+   "t1": 33.717,
+   "look": "archival",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "clips/o11_store.mp4",
+   "kind": "video",
+   "t0": 33.717,
+   "t1": 38.3,
+   "look": "archival",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/o12_grave.png",
+   "kind": "image",
+   "t0": 38.3,
+   "t1": 41.608,
+   "look": "archival",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "clips/o13_towers.mp4",
+   "kind": "video",
+   "t0": 41.608,
+   "t1": 45.15,
+   "look": "modern",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/o14_lobby.png",
+   "kind": "image",
+   "t0": 45.15,
+   "t1": 47.15,
+   "look": "snap",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "clips/o15_stars.mp4",
+   "kind": "video",
+   "t0": 47.15,
+   "t1": 50.037,
+   "look": "film",
+   "src_in": 0.3
+  }
+ ],
+ "headlines": [
+  {
+   "t0": 0.05,
+   "t1": 3.218,
+   "lines": [
+    [
+     {
+      "w": "The",
+      "t": 0.0
+     },
+     {
+      "w": "skyscraper",
+      "t": 0.16
+     }
+    ],
+    [
+     {
+      "w": "began",
+      "t": 0.74
+     },
+     {
+      "w": "with",
+      "t": 1.1
+     },
+     {
+      "w": "a",
+      "t": 1.34
+     },
+     {
+      "w": "rope",
+      "t": 1.5
+     },
+     {
+      "w": "cut",
+      "t": 1.74
+     },
+     {
+      "w": "on",
+      "t": 2.04
+     },
+     {
+      "w": "purpose.",
+      "t": 2.32
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 3.278,
+   "t1": 5.502,
+   "lines": [
+    [
+     {
+      "w": "New",
+      "t": 3.52
+     },
+     {
+      "w": "York,",
+      "t": 3.52
+     }
+    ],
+    [
+     {
+      "w": "1854.",
+      "t": 4.02
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 5.562,
+   "t1": 9.593,
+   "lines": [
+    [
+     {
+      "w": "Buildings",
+      "t": 5.96
+     },
+     {
+      "w": "rarely",
+      "t": 5.96
+     }
+    ],
+    [
+     {
+      "w": "passed",
+      "t": 6.34
+     },
+     {
+      "w": "4",
+      "t": 6.74
+     },
+     {
+      "w": "floors.",
+      "t": 7.06
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 9.653,
+   "t1": 12.827,
+   "lines": [
+    [
+     {
+      "w": "Nobody",
+      "t": 11.14
+     },
+     {
+      "w": "trusted",
+      "t": 11.58
+     }
+    ],
+    [
+     {
+      "w": "the",
+      "t": 11.96
+     },
+     {
+      "w": "rope.",
+      "t": 12.18
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 12.887,
+   "t1": 17.76,
+   "lines": [
+    [
+     {
+      "w": "Elisha",
+      "t": 13.08
+     },
+     {
+      "w": "Otis.",
+      "t": 13.46
+     }
+    ],
+    [
+     {
+      "w": "A",
+      "t": 14.02
+     },
+     {
+      "w": "platform",
+      "t": 15.46
+     },
+     {
+      "w": "that",
+      "t": 15.8
+     },
+     {
+      "w": "locks.",
+      "t": 16.02
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 17.82,
+   "t1": 20.71,
+   "lines": [
+    [
+     {
+      "w": "Crystal",
+      "t": 18.14
+     },
+     {
+      "w": "Palace.",
+      "t": 18.38
+     }
+    ],
+    [
+     {
+      "w": "High",
+      "t": 19.38
+     },
+     {
+      "w": "above",
+      "t": 19.62
+     },
+     {
+      "w": "a",
+      "t": 19.84
+     },
+     {
+      "w": "crowd.",
+      "t": 20.02
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 20.77,
+   "t1": 23.052,
+   "lines": [
+    [
+     {
+      "w": "Cut",
+      "t": 21.28
+     },
+     {
+      "w": "the",
+      "t": 21.62
+     },
+     {
+      "w": "rope.",
+      "t": 21.78
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 23.112,
+   "t1": 25.535,
+   "lines": [
+    [
+     {
+      "w": "Dropped",
+      "t": 23.64
+     },
+     {
+      "w": "2",
+      "t": 23.92
+     },
+     {
+      "w": "feet.",
+      "t": 24.26
+     }
+    ],
+    [
+     {
+      "w": "Stopped.",
+      "t": 24.92
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 25.595,
+   "t1": 27.927,
+   "lines": [
+    [
+     {
+      "w": "All",
+      "t": 25.98
+     },
+     {
+      "w": "safe,",
+      "t": 26.18
+     }
+    ],
+    [
+     {
+      "w": "gentlemen.",
+      "t": 26.58
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 27.987,
+   "t1": 33.677,
+   "lines": [
+    [
+     {
+      "w": "15",
+      "t": 29.18
+     },
+     {
+      "w": "in",
+      "t": 30.04
+     },
+     {
+      "w": "1855.",
+      "t": 30.18
+     }
+    ],
+    [
+     {
+      "w": "27",
+      "t": 31.48
+     },
+     {
+      "w": "in",
+      "t": 32.0
+     },
+     {
+      "w": "1856.",
+      "t": 32.28
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 33.737,
+   "t1": 38.26,
+   "lines": [
+    [
+     {
+      "w": "1857.",
+      "t": 33.92
+     }
+    ],
+    [
+     {
+      "w": "First",
+      "t": 35.06
+     },
+     {
+      "w": "passenger",
+      "t": 35.38
+     },
+     {
+      "w": "safety",
+      "t": 35.88
+     },
+     {
+      "w": "elevator.",
+      "t": 36.26
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 38.32,
+   "t1": 41.568,
+   "lines": [
+    [
+     {
+      "w": "Died",
+      "t": 38.52
+     },
+     {
+      "w": "1861,",
+      "t": 39.0
+     }
+    ],
+    [
+     {
+      "w": "aged",
+      "t": 40.34
+     },
+     {
+      "w": "49.",
+      "t": 40.44
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 41.628,
+   "t1": 47.11,
+   "lines": [
+    [
+     {
+      "w": "2.5",
+      "t": 44.24
+     },
+     {
+      "w": "billion",
+      "t": 45.2
+     }
+    ],
+    [
+     {
+      "w": "people",
+      "t": 45.56
+     },
+     {
+      "w": "a",
+      "t": 46.1
+     },
+     {
+      "w": "day.",
+      "t": 46.34
+     }
+    ]
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "t0": 5.642,
+   "t1": 9.593,
+   "text": "Buildings usually no higher than 4 storeys. Source: Encyclopedia.com"
+  },
+  {
+   "t0": 12.967,
+   "t1": 17.76,
+   "text": "Elisha Otis, Yonkers, New York. Source: Encyclopaedia Britannica"
+  },
+  {
+   "t0": 17.9,
+   "t1": 20.71,
+   "text": "New York Crystal Palace, 1854. Source: Encyclopaedia Britannica"
+  },
+  {
+   "t0": 23.192,
+   "t1": 25.535,
+   "text": "The platform dropped 2 feet. Source: New England Historical Society"
+  },
+  {
+   "t0": 28.067,
+   "t1": 33.677,
+   "text": "Sales: 15 in 1855, 27 in 1856. Source: Encyclopedia.com"
+  },
+  {
+   "t0": 33.817,
+   "t1": 38.26,
+   "text": "First passenger safety elevator, 23 March 1857. Source: Encyclopaedia Britannica"
+  },
+  {
+   "t0": 41.708,
+   "t1": 47.11,
+   "text": "About 2.5 billion people a day. Source: Otis, company figure"
+  }
+ ],
+ "counters": [],
+ "lists": [],
+ "subtitles": [
+  {
+   "t0": 0.0,
+   "t1": 3.087,
+   "text": "The skyscraper began with a rope cut on purpose."
+  },
+  {
+   "t0": 3.258,
+   "t1": 5.328,
+   "text": "New York, 1854."
+  },
+  {
+   "t0": 5.542,
+   "t1": 9.42,
+   "text": "Buildings rarely passed 4 floors, because people would not climb more."
+  },
+  {
+   "t0": 9.633,
+   "t1": 12.653,
+   "text": "Elevators existed, but nobody trusted the rope."
+  },
+  {
+   "t0": 12.867,
+   "t1": 17.587,
+   "text": "Elisha Otis, a bedstead mechanic, built a platform that locks if the rope breaks."
+  },
+  {
+   "t0": 17.8,
+   "t1": 20.578,
+   "text": "At the Crystal Palace he rode it high above a crowd."
+  },
+  {
+   "t0": 20.75,
+   "t1": 22.92,
+   "text": "An assistant cut the rope with an axe."
+  },
+  {
+   "t0": 23.092,
+   "t1": 25.445,
+   "text": "The platform dropped 2 feet and stopped."
+  },
+  {
+   "t0": 25.575,
+   "t1": 27.712,
+   "text": "All safe, gentlemen, all safe."
+  },
+  {
+   "t0": 27.967,
+   "t1": 33.503,
+   "text": "Orders followed, 15 elevators in 1855 and 27 in 1856."
+  },
+  {
+   "t0": 33.717,
+   "t1": 38.087,
+   "text": "1857, the first passenger safety elevator, in a New York store."
+  },
+  {
+   "t0": 38.3,
+   "t1": 41.353,
+   "text": "He died in 1861, aged 49."
+  },
+  {
+   "t0": 41.608,
+   "t1": 46.853,
+   "text": "Otis says its elevators and escalators now move 2.5 billion people a day."
+  }
+ ],
+ "glitches": [
+  27.967,
+  47.15
+ ],
+ "end": {
+  "t0": 47.15,
+  "words": [
+   {
+    "w": "Ad",
+    "t": 47.36
+   },
+   {
+    "w": "Astra.",
+    "t": 47.44
+   }
+  ],
+  "slogan": [
+   {
+    "w": "Fucking",
+    "t": 48.82
+   },
+   {
+    "w": "accelerate.",
+    "t": 48.98
+   }
+  ],
+  "card_t": 50.037,
+  "emblem": "kit/emblem.jpg",
+  "url_line": "Apply at joinadastra.com"
+ }
+}
