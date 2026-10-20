@@ -1,0 +1,639 @@
+{
+ "duration": 50.59,
+ "shots": [
+  {
+   "src": "src/k01.png",
+   "kind": "image",
+   "t0": 0.0,
+   "t1": 4.95,
+   "look": "archival",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/k02c.png",
+   "kind": "image",
+   "t0": 4.95,
+   "t1": 7.242,
+   "look": "archival",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/k03.png",
+   "kind": "image",
+   "t0": 7.242,
+   "t1": 11.125,
+   "look": "archival",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "clips/k04_swirl.mp4",
+   "kind": "video",
+   "t0": 11.125,
+   "t1": 13.883,
+   "look": "archival",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/k05.png",
+   "kind": "image",
+   "t0": 13.883,
+   "t1": 15.858,
+   "look": "archival",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "src/k06.png",
+   "kind": "image",
+   "t0": 15.858,
+   "t1": 19.583,
+   "look": "archival",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "clips/k07_threads.mp4",
+   "kind": "video",
+   "t0": 19.583,
+   "t1": 21.117,
+   "look": "archival",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/k08.png",
+   "kind": "image",
+   "t0": 21.117,
+   "t1": 25.008,
+   "look": "archival",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "src/k06.png",
+   "kind": "image",
+   "t0": 25.008,
+   "t1": 28.117,
+   "look": "archival",
+   "z": [
+    1.12,
+    1.02
+   ]
+  },
+  {
+   "src": "src/k09.png",
+   "kind": "image",
+   "t0": 28.117,
+   "t1": 31.71,
+   "look": "archival",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "clips/k10_hull.mp4",
+   "kind": "video",
+   "t0": 31.71,
+   "t1": 32.792,
+   "look": "modern",
+   "src_in": 0.3
+  },
+  {
+   "src": "src/k11.png",
+   "kind": "image",
+   "t0": 32.792,
+   "t1": 37.625,
+   "look": "modern",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "src/k12.png",
+   "kind": "image",
+   "t0": 37.625,
+   "t1": 42.658,
+   "look": "archival",
+   "z": [
+    1.04,
+    1.12
+   ]
+  },
+  {
+   "src": "src/k13.png",
+   "kind": "image",
+   "t0": 42.658,
+   "t1": 44.942,
+   "look": "snap",
+   "z": [
+    1.0,
+    1.1
+   ]
+  },
+  {
+   "src": "clips/k14_sky.mp4",
+   "kind": "video",
+   "t0": 44.942,
+   "t1": 48.495,
+   "look": "film",
+   "src_in": 0.3
+  }
+ ],
+ "headlines": [
+  {
+   "t0": 0.05,
+   "t1": 4.91,
+   "lines": [
+    [
+     {
+      "w": "A",
+      "t": 0.0
+     },
+     {
+      "w": "cloudy",
+      "t": 0.14
+     },
+     {
+      "w": "liquid",
+      "t": 0.46
+     }
+    ],
+    [
+     {
+      "w": "became",
+      "t": 2.12
+     },
+     {
+      "w": "a",
+      "t": 1.54
+     },
+     {
+      "w": "fibre",
+      "t": 2.84
+     },
+     {
+      "w": "stronger",
+      "t": 3.18
+     },
+     {
+      "w": "than",
+      "t": 3.66
+     },
+     {
+      "w": "steel.",
+      "t": 4.04
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 4.97,
+   "t1": 7.202,
+   "lines": [
+    [
+     {
+      "w": "Delaware,",
+      "t": 5.18
+     }
+    ],
+    [
+     {
+      "w": "1965.",
+      "t": 5.66
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 7.262,
+   "t1": 11.085,
+   "lines": [
+    [
+     {
+      "w": "Stephanie",
+      "t": 7.54
+     },
+     {
+      "w": "Kwolek.",
+      "t": 7.76
+     }
+    ],
+    [
+     {
+      "w": "DuPont",
+      "t": 8.62
+     },
+     {
+      "w": "chemist",
+      "t": 8.9
+     },
+     {
+      "w": "since",
+      "t": 9.22
+     },
+     {
+      "w": "1946.",
+      "t": 9.54
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 11.145,
+   "t1": 13.843,
+   "lines": [
+    [
+     {
+      "w": "Thin",
+      "t": 12.44
+     },
+     {
+      "w": "and",
+      "t": 12.76
+     },
+     {
+      "w": "cloudy.",
+      "t": 13.04
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 13.903,
+   "t1": 15.818,
+   "lines": [
+    [
+     {
+      "w": "Everyone",
+      "t": 13.98
+     },
+     {
+      "w": "assumed",
+      "t": 14.32
+     }
+    ],
+    [
+     {
+      "w": "it",
+      "t": 14.7
+     },
+     {
+      "w": "failed.",
+      "t": 15.04
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 15.878,
+   "t1": 19.543,
+   "lines": [
+    [
+     {
+      "w": "The",
+      "t": 15.9
+     },
+     {
+      "w": "technician",
+      "t": 16.06
+     },
+     {
+      "w": "refused.",
+      "t": 16.4
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 19.603,
+   "t1": 21.077,
+   "lines": [
+    [
+     {
+      "w": "She",
+      "t": 19.7
+     },
+     {
+      "w": "insisted.",
+      "t": 19.98
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 21.137,
+   "t1": 24.968,
+   "lines": [
+    [
+     {
+      "w": "5",
+      "t": 22.34
+     },
+     {
+      "w": "times",
+      "t": 22.74
+     },
+     {
+      "w": "stronger",
+      "t": 23.06
+     }
+    ],
+    [
+     {
+      "w": "than",
+      "t": 23.44
+     },
+     {
+      "w": "steel.",
+      "t": 23.76
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 25.028,
+   "t1": 28.077,
+   "lines": [
+    [
+     {
+      "w": "Kevlar,",
+      "t": 25.36
+     }
+    ],
+    [
+     {
+      "w": "1971.",
+      "t": 26.68
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 28.137,
+   "t1": 32.752,
+   "lines": [
+    [
+     {
+      "w": "About",
+      "t": 29.26
+     },
+     {
+      "w": "200",
+      "t": 29.5
+     }
+    ],
+    [
+     {
+      "w": "products.",
+      "t": 30.0
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 32.812,
+   "t1": 37.585,
+   "lines": [
+    [
+     {
+      "w": "3,000+",
+      "t": 35.74
+     }
+    ],
+    [
+     {
+      "w": "officers",
+      "t": 36.64
+     },
+     {
+      "w": "saved.",
+      "t": 35.12
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 37.645,
+   "t1": 42.618,
+   "lines": [
+    [
+     {
+      "w": "Retired",
+      "t": 38.06
+     },
+     {
+      "w": "1986.",
+      "t": 38.7
+     }
+    ],
+    [
+     {
+      "w": "Died",
+      "t": 39.9
+     },
+     {
+      "w": "2014,",
+      "t": 40.38
+     }
+    ],
+    [
+     {
+      "w": "aged",
+      "t": 41.6
+     },
+     {
+      "w": "90.",
+      "t": 41.7
+     }
+    ]
+   ]
+  },
+  {
+   "t0": 42.678,
+   "t1": 44.902,
+   "lines": [
+    [
+     {
+      "w": "The",
+      "t": 42.76
+     },
+     {
+      "w": "failure",
+      "t": 42.88
+     }
+    ],
+    [
+     {
+      "w": "was",
+      "t": 43.24
+     },
+     {
+      "w": "the",
+      "t": 43.86
+     },
+     {
+      "w": "discovery.",
+      "t": 44.04
+     }
+    ]
+   ]
+  }
+ ],
+ "labels": [
+  {
+   "t0": 5.05,
+   "t1": 7.202,
+   "text": "Du Pont research laboratory, Delaware. Source: Science History Institute"
+  },
+  {
+   "t0": 7.342,
+   "t1": 11.085,
+   "text": "DuPont chemist from 1946. Source: Encyclopaedia Britannica"
+  },
+  {
+   "t0": 15.958,
+   "t1": 19.543,
+   "text": "Technician anecdote, single source. Source: Great Patent"
+  },
+  {
+   "t0": 21.217,
+   "t1": 24.968,
+   "text": "About 5 times stronger than steel, by weight. Source: Science History Institute"
+  },
+  {
+   "t0": 25.108,
+   "t1": 28.077,
+   "text": "Commercial launch, 1971. Source: Encyclopaedia Britannica"
+  },
+  {
+   "t0": 28.217,
+   "t1": 32.752,
+   "text": "About 200 applications. Source: Science History Institute"
+  },
+  {
+   "t0": 32.892,
+   "t1": 37.585,
+   "text": "All police body armour, as of 2006. Source: National Institute of Justice"
+  },
+  {
+   "t0": 37.725,
+   "t1": 42.618,
+   "text": "Died 18 June 2014. Source: Encyclopaedia Britannica"
+  }
+ ],
+ "counters": [],
+ "lists": [],
+ "subtitles": [
+  {
+   "t0": 0.0,
+   "t1": 4.778,
+   "text": "A cloudy liquid that looked like a failure became a fibre stronger than steel."
+  },
+  {
+   "t0": 4.95,
+   "t1": 7.028,
+   "text": "Delaware, 1965."
+  },
+  {
+   "t0": 7.242,
+   "t1": 10.912,
+   "text": "Stephanie Kwolek had been a DuPont chemist since 1946."
+  },
+  {
+   "t0": 11.125,
+   "t1": 13.712,
+   "text": "Her new solution came out thin and cloudy."
+  },
+  {
+   "t0": 13.883,
+   "t1": 15.687,
+   "text": "Everyone assumed it had failed."
+  },
+  {
+   "t0": 15.858,
+   "t1": 19.37,
+   "text": "The technician refused to spin it, fearing it would clog the machine."
+  },
+  {
+   "t0": 19.583,
+   "t1": 20.987,
+   "text": "She insisted."
+  },
+  {
+   "t0": 21.117,
+   "t1": 24.753,
+   "text": "The fibre came out about 5 times stronger than steel by weight."
+  },
+  {
+   "t0": 25.008,
+   "t1": 27.945,
+   "text": "Kevlar reached the market in 1971."
+  },
+  {
+   "t0": 28.117,
+   "t1": 32.578,
+   "text": "Today it goes into about 200 products, from tyres to boat hulls."
+  },
+  {
+   "t0": 32.792,
+   "t1": 37.37,
+   "text": "By 2006, police body armour had saved at least 3,000 officers."
+  },
+  {
+   "t0": 37.625,
+   "t1": 42.445,
+   "text": "Kwolek retired in 1986 and died in 2014, aged 90."
+  },
+  {
+   "t0": 42.658,
+   "t1": 44.645,
+   "text": "The failure was the discovery."
+  }
+ ],
+ "glitches": [
+  28.117,
+  44.942
+ ],
+ "end": {
+  "t0": 44.942,
+  "words": [
+   {
+    "w": "Ad",
+    "t": 44.48
+   },
+   {
+    "w": "Astra.",
+    "t": 45.74
+   }
+  ],
+  "slogan": [
+   {
+    "w": "Fucking",
+    "t": 47.092
+   },
+   {
+    "w": "accelerate.",
+    "t": 47.46
+   }
+  ],
+  "card_t": 48.495,
+  "emblem": "kit/emblem.jpg",
+  "url_line": "Apply at joinadastra.com"
+ }
+}

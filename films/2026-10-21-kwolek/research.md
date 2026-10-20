@@ -1,0 +1,4 @@
+# Stephanie Kwolek, Kevlar (21 October 2026)
+Used: Britannica (DuPont from 1946, Kevlar commercial 1971, retired 1986, died 18 June 2014 aged 90); Science History Institute (1965, thin cloudy liquid crystalline solution, about 5 times stronger than steel, about 200 applications); Great Patent (technician refused to spin it fearing a clog, she insisted; US patent 3,819,587 granted 25 June 1974); National Institute of Justice (body armour has saved at least 3,000 officers' lives, 2006).
+Flags: the technician anecdote is from a single secondary source and the technician is not named; the 3,000 figure is all police body armour, not Kevlar alone, dated 2006; "5 times stronger by weight" is the Science History Institute wording.
+Avoided: the technician's name, the exact 1965 month, tyre-cord motive, royalty claims.
