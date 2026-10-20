@@ -21,3 +21,12 @@ One line a film, starting with its date: builder, title, status (made and awaiti
 - 2026-10-19: Kary Mullis, Copying DNA Began on a Night Drive, made in James's session after the 6:47 am routine failed (Trusted network access, no research); James said "Make it now" then "Post now". X https://x.com/joinadastra/status/2112019237875142744 (request d49a78936a1145b98725824fbadff220). Instagram Reel https://www.instagram.com/reel/DeqREN3Gr52/ (request 9a1a97b2ba934cd9bb71fc2a03877281). X 8 tags (#science #technology #innovation #history #engineering #inventors #builders #medicine), Instagram 30. 46.5 seconds. Runway credits about 560. Next in queue: pick from PLAYBOOK.md.
 - 2026-10-20: Nils Bohlin, The Seat Belt That Saves Lives Began With an Ejection Seat Engineer, made in James's session after the 6:47 am routine failed again (Trusted network access, no research); James said "Post now". X https://x.com/joinadastra/status/2112298628005998626 (request f32a32c94e244e66ab9502e398de8c3d). Instagram https://www.instagram.com/reel/DesQEMnjSr7/ (request fd37c9161be44162bc7ab09c722c5a38). X 8 tags, Instagram 30. 49 seconds. Runway credits about 560. Next in queue: Elisha Otis.
 - 2026-10-21: Elisha Otis, The Skyscraper Began With a Rope Cut on Purpose, made in James's session ("Yes" to making it); James said "Post now". X https://x.com/joinadastra/status/2112626235037663369 (request 1b128434cd574eeda137bd7980cbfa98). Instagram https://www.instagram.com/reel/DeulDFsm0ib/ (request 793700c88e4c467b8d1f88949f7a0b27). X 8 tags (#science #technology #innovation #history #engineering #inventors #builders #architecture), Instagram 30. 52 seconds. Runway credits about 560. Sources: Britannica, Encyclopedia.com, New England Historical Society, Otis. Next in queue: Stephanie Kwolek.
+
+## 2026-10-21 Stephanie Kwolek, Kevlar
+- X: https://x.com/joinadastra/status/2112634303276286199 (request 1b1a34788035408fb0293a674e148aff, 8 tags)
+- Instagram: https://www.instagram.com/reel/DeuovBiCn3v/ (request 3641f4cf81b4491f864343634fc1d771, 30 tags)
+- 50.6 s, voice Wallace David Trailer (FF7KdobWPaiR0vkcALHF), 14 stills, 4 clips, about 440 credits plus 60 on an unused clip
+- Sources: Encyclopaedia Britannica, Science History Institute, Great Patent, National Institute of Justice
+- Flags: technician anecdote single source; 3,000 figure is all police body armour, 2006
+- Voice confirmed by James: keep David Trailer
+- Next in queue: Charles Parsons, steam turbine, 1884
