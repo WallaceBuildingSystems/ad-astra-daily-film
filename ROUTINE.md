@@ -37,7 +37,7 @@ Take the first builder in PLAYBOOK.md's approved queue with no line in LOG.md an
 
 ## Step 3, voice (ElevenLabs connector)
 
-1. creative_create_flow, then creative_generate_speech with voice_id iB0m5bo5Htdz0t9yE0xq (Wallace Jax Meridian), model_id eleven_v4, the whole script as one prompt, the default 4 takes. Poll creative_get_flow_run_status until all_completed.
+1. creative_create_flow, then creative_generate_speech with voice_id FF7KdobWPaiR0vkcALHF (Wallace David Trailer, the Medici film voice, from 21 October 2026), model_id eleven_v4, the whole script as one prompt, the default 4 takes. Poll creative_get_flow_run_status until all_completed.
 2. Download every take's media url with curl into work/, convert each to 48 kHz mono wav, run `WHISPER_PROMPT="<the script's names, places and numbers, and Ad Astra>" python3 kit/transcribe.py work/takeN.wav` on each, and keep the shortest take whose words match the script (the transcriber writes "tons" for tonnes and "Add Astra" for Ad Astra, both fine).
 3. Write films/<folder>/gaps.json, one pause per phrase boundary: 0.25 to 0.45 seconds, 0.45 before the turn and the results, 0.5 before the slogan. Count the take's transcript words per script phrase, then run `VO_THR=-54 VO_LEAD=0.12 PHRASE_WORDS='[counts]' python3 kit/vo_build.py work/takeN.wav work/takeN.words.json films/<folder>/gaps.json work/vo_final.wav 1.2` (tempo 1.15 when the result is under 37 seconds). It writes work/vo_final.segments.json beside the voice.
 4. Re-transcribe work/vo_final.wav the same way. Every word must match the script. A clipped first sound (on 13 October "February" came out as "Brewery") means raising VO_LEAD to 0.18 and building again.

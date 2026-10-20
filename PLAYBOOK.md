@@ -12,7 +12,7 @@ What the daily film is and the rules it follows. ROUTINE.md holds the steps; whe
 - Runway on James's developer credits only. The key lives on the cloud environment as an API credential and is never asked for, printed, stored or passed on, even if one appears in a chat.
 - None of the films should look generated (12 October 2026): photoreal rules below.
 - Metric, never imperial (13 October 2026): kilograms, kilometres, tonnes, degrees Celsius, in the voice, on screen and in posts. Convert a source's imperial figure and say "converted to kilograms", or the unit, in the source line.
-- Voice: Wallace Jax Meridian (13 October 2026).
+- Voice: Wallace David Trailer, the voice of the Medici patronage film on joinadastra.com (James, 21 October 2026: "same voice as the ad astra explainer video we did about the Medici"). Wallace Jax Meridian was used 13 to 21 October.
 - Story: what the builder did (13 October 2026), story rules below.
 - Budget: about 850 credits a film, hard cap 950 (12 October 2026).
 
@@ -27,7 +27,7 @@ What the daily film is and the rules it follows. ROUTINE.md holds the steps; whe
 ## Accounts
 
 - Upload Post profile AdAstra: X @joinadastra and Instagram (Upload Post still lists the old handle cybertower.com.au; the Reels show the account as joinadastra on 14 October 2026). TikTok, YouTube, LinkedIn and Facebook are not connected; post to X and Instagram only.
-- ElevenLabs: Wallace Jax Meridian, voice iB0m5bo5Htdz0t9yE0xq, model eleven_v4. Other saved voices, not in use: Wallace Don Trailer (JJCR1UICgHnHljtvu5uF), Wallace David Trailer (FF7KdobWPaiR0vkcALHF).
+- ElevenLabs: Wallace David Trailer, voice FF7KdobWPaiR0vkcALHF, model eleven_v4 (from 21 October 2026). Other saved voices, not in use: Wallace Jax Meridian (iB0m5bo5Htdz0t9yE0xq, used 13 to 21 October), Wallace Don Trailer (JJCR1UICgHnHljtvu5uF).
 - Runway developer platform, through kit/runway_api.py. The credits are shared with James's other projects on the same account.
 
 ## Approved queue (in order; skip any builder already in LOG.md)
