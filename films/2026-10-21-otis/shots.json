@@ -1,0 +1,114 @@
+{
+ "style_past": " 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+ "shots": [
+  {
+   "id": "o01_rope",
+   "look": "archival",
+   "video": false,
+   "still": "A thick coil of hemp rope on a wooden platform inside an iron and glass exhibition hall, one frayed freshly cut end in the foreground, soft daylight from the glass roof, dust in the air, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "o02_street",
+   "look": "archival",
+   "video": true,
+   "still": "A busy New York street in 1854, horse carriages and mud, brick buildings only 3 to 4 storeys high, hazy morning light, chimney smoke, people small and far away, none in focus. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "smoke drifts from chimneys, carriages move slowly, locked-off camera"
+  },
+  {
+   "id": "o03_stairs",
+   "look": "archival",
+   "video": false,
+   "still": "A narrow steep wooden staircase turning through several flights inside a 4-storey brick warehouse, worn treads, dusty window light, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "o04_hoist",
+   "look": "archival",
+   "video": false,
+   "still": "An old cargo hoist platform hanging on a single thick rope in a dark brick warehouse shaft, dim light from above, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "o05_factory",
+   "look": "archival",
+   "video": true,
+   "still": "The interior of a small 1850s wooden bedstead factory, belt-driven machinery, wood shavings on the floor, shafts of dusty light, steam from a boiler, a mechanic seen from behind, face not visible. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "steam drifts, dust floats in the light shafts, locked-off camera"
+  },
+  {
+   "id": "o06_palace",
+   "look": "archival",
+   "video": false,
+   "still": "The inside of the New York Crystal Palace in 1854, a vast iron and glass hall, a crowd of men in top hats seen from behind looking up at a wooden platform high in the air, hazy light. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "o07_axe",
+   "look": "archival",
+   "video": false,
+   "still": "An iron axe embedded in a timber post beside a thick rope that has just been cut, the severed end swinging, exhibition hall background, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "o08_platform",
+   "look": "archival",
+   "video": false,
+   "still": "A wooden elevator platform resting just above the floor between two timber guide rails with iron ratchet teeth, a cut rope hanging above it, hall light, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "o09_crowd",
+   "look": "archival",
+   "video": false,
+   "still": "A crowd of men in top hats and women in long dresses seen from behind in a glass and iron hall, applauding, hands raised blurred, dusty soft light, no faces visible. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "o10_ledger",
+   "look": "archival",
+   "video": false,
+   "still": "An open sales ledger on a wooden desk with a quill pen and an inkwell, columns of handwritten figures too blurred to read, window light, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "o11_store",
+   "look": "archival",
+   "video": true,
+   "still": "A five-storey cast-iron fronted department store on Broadway in New York in 1857, large arched windows, horse carriages passing, hazy light, people small and far away. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "carriages pass slowly, locked-off camera"
+  },
+  {
+   "id": "o12_grave",
+   "look": "archival",
+   "video": false,
+   "still": "A quiet cemetery in Yonkers, New York in autumn, an old stone headstone among fallen leaves, soft overcast light, no readable words, no people. 35mm film still from a historical documentary reconstruction, shot on Kodak Vision3 500T, full-bleed photograph filling the whole frame edge to edge, no border, no white margin, no film strip edge, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "o13_towers",
+   "look": "modern",
+   "video": true,
+   "still": "A modern city skyline at dusk with tall glass towers and lit windows, seen from a hill, warm light on the glass. Casual phone snapshot, natural daylight, slight lens flare, ordinary framing, full-bleed photograph, no border, no readable words, no text, no logos.",
+   "seconds": 5,
+   "motion": "clouds drift, window lights flicker on, locked-off camera"
+  },
+  {
+   "id": "o14_lobby",
+   "look": "snap",
+   "video": false,
+   "still": "A modern building lobby with polished stainless steel elevator doors, one set open showing the lit cabin, marble floor, no people. Casual phone snapshot, natural daylight, slight lens flare, ordinary framing, full-bleed photograph, no border, no readable words, no text, no logos.",
+   "seconds": 5
+  },
+  {
+   "id": "o15_stars",
+   "look": "film",
+   "video": true,
+   "still": "A dark night sky full of stars over a still lake with a faint green glow on the horizon, no people, no text.",
+   "seconds": 5
+  }
+ ]
+}
