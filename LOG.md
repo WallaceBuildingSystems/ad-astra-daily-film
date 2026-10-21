@@ -30,3 +30,4 @@ One line a film, starting with its date: builder, title, status (made and awaiti
 - Flags: technician anecdote single source; 3,000 figure is all police body armour, 2006
 - Voice confirmed by James: keep David Trailer
 - Next in queue: Charles Parsons, steam turbine, 1884
+- 2026-10-22: FAILED, no film made. No primary source can be opened (WebFetch ENOTFOUND on Britannica, MIT Museum, Science Museum Group), so Charles Parsons cannot be researched under the sourcing rule. Runway works (79,116 credits). Nothing posted, staged or scheduled, no credits spent. Next in queue: Charles Parsons. See films/2026-10-22-parsons/report.md.
