@@ -31,3 +31,12 @@ One line a film, starting with its date: builder, title, status (made and awaiti
 - Voice confirmed by James: keep David Trailer
 - Next in queue: Charles Parsons, steam turbine, 1884
 - 2026-10-22: FAILED, no film made. No primary source can be opened (WebFetch ENOTFOUND on Britannica, MIT Museum, Science Museum Group), so Charles Parsons cannot be researched under the sourcing rule. Runway works (79,116 credits). Nothing posted, staged or scheduled, no credits spent. Next in queue: Charles Parsons. See films/2026-10-22-parsons/report.md.
+
+## 2026-10-22 Charles Parsons, steam turbine
+- X: https://x.com/joinadastra/status/2113225457986392502 (request 6d24f854282d48a985ea52503fadebfa, 8 tags)
+- Instagram: https://www.instagram.com/reel/Dey1naZE_6J/ (request 14b7de8e086540828f4b0d43a7a51c5d, 30 tags)
+- 56.8 s, voice Wallace David Trailer, 14 stills, 4 clips (one redone), about 800 credits plus 2 stills redone
+- Sources: Wikipedia, Encyclopaedia Britannica, Historic UK
+- Flags: over 90 per cent of world electricity from a general-interest source; 27 knots is Wikipedia wording
+- Note: ElevenLabs ran out of credits on 21 Oct, topped up on 22 Oct
+- Next in queue: to be chosen
