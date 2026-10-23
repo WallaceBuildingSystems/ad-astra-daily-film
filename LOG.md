@@ -41,3 +41,4 @@ One line a film, starting with its date: builder, title, status (made and awaiti
 - Note: ElevenLabs ran out of credits on 21 Oct, topped up on 22 Oct
 - Next in queue: to be chosen
 - 2026-10-23: FAILED, no film made. No primary source can be opened (WebFetch ENOTFOUND, curl blocked), so George Westinghouse cannot be researched under the sourcing rule; search snippets disagree on the first test (April 1869 or September 1868). Runway works (77,584 credits). Nothing posted, staged or scheduled, no credits spent. Next in queue: George Westinghouse. See films/2026-10-23-westinghouse/report.md.
+- 2026-10-24: FAILED, no film made. No primary source can be opened (WebFetch ENOTFOUND, curl 000 on all hosts, third day running), so George Westinghouse cannot be researched under the sourcing rule. Runway works (77,584 credits). Nothing posted, staged or scheduled, no credits spent. Next in queue: George Westinghouse. See films/2026-10-24-westinghouse/report.md.
