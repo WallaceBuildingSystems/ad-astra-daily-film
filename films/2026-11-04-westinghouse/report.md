@@ -1,0 +1,2 @@
+# 2026-11-04 FAILED, no film made
+No primary source can be opened: WebFetch ENOTFOUND on www.asme.org and www.britannica.com, curl 000 / proxy CONNECT refused. Thirteenth day running. George Westinghouse cannot be researched under the sourcing rule. Runway works (69,685 credits). Nothing posted, staged or scheduled, no credits spent. Fix: allow the source hosts (asme.org, britannica.com, patents.google.com, museums) in the environment's network settings.
